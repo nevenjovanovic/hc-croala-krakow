@@ -1,6 +1,6 @@
 # Implementing Canonical Text Services in the Croatiae Auctores Latini Digital Collection
 
-Neven Jovanović, University of Zagreb
+[Neven Jovanović](http://orcid.org/0000-0002-9119-399X), University of Zagreb
 
 Alexander Simrell, College of the Holy Cross
 
@@ -35,10 +35,14 @@ The [Canonical Text Services (CTS) protocol](http://cite-architecture.github.io/
 
 The CTS protocol is currently implemented in two projects: the [Homer Multitext](http://www.homermultitext.org/) and the [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/). Both focus on texts which have been considered classical - texts of Greek and Roman antiquity - and have well-established citation schemes, in some cases going back thousands of years. We put the CTS protocol to test by applying it to a non-canonical collection - to Latin texts in the collection [Croatiae auctores Latini (CroALa)](http://croala.ffzg.unizg.hr/intro/).
 
-### Croatia auctores Latini
+### Croatiae auctores Latini
 
 In Croatia there was a rich tradition of writing in Latin during the Medieval and Early Modern period (texts in CroALa date from 976 to 1984). The corpus happens to include a number of complete or partial translations of Homeric poems into Latin, such as the partial one by Janus Pannonius (1447), and the complete one by Rajmund Kunić (1776). We applied the CTS protocol and its supporting technologies to connect  these translations to the "ideal" CTS representation of the Iliad. Through this canonical reference a connection was established to the Greek language sources served on the internet by the Homer Multitext project.
 
 ### Workflow
 
-The process involved three stages: making the CroALa texts “canonically" referable through XML catalog records, validating and verifying the prepared editions, and establishing the connection between editions prepared by different projects.
+The process involved three stages: 
+* making the CroALa texts “canonically" referable through XML catalog records
+* validating and verifying the prepared editions
+* establishing the connection between editions prepared by different projects
+
