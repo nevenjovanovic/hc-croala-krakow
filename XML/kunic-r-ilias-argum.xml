@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="kunic-r-ilias-argum">
+         <titleStmt>
+            <title>Argumenta singulorum librorum Iliados singulis versibus comprehensa, versio electronica</title>
+            <author ref="kunic02">
+               <persName xml:lang="hr">Kunić, Rajmund</persName>
+               <date>1719-1794</date>
+            </author>
+            <editor>
+               <persName>
+                  <ref xml:id="PŠ">Petra Šoštarić</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName xml:id="NJ">
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Priređeno prema digitalizatu izdanja iz 1776.</p>
+         </editionStmt>
+         <extent ana="B">Mg:B 25 versus, verborum 183</extent>
+         <publicationStmt>
+            <p>Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+               projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+               Hrvatska.  <date when-iso="2013-01">Siječnja 2013</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <biblStruct type="externum">
+               <monogr>
+                  
+                  <author>Homerus</author>
+                  <author ref="kunic02" role="vertit">
+                     <name xml:lang="hr">Kunić, Rajmund</name>
+                     <date>1719-1794</date>
+                  </author>
+                  <title>Ilias. Latinis versibus expressa a Raymondo Cunichio
+                     Ragusino. </title>
+                  <imprint>
+                     <pubPlace>Romae</pubPlace>
+                     <publisher>Excudebat Ioannes Zempel</publisher>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>XLVII + 611 pag. ; 2o </extent>
+               </monogr>
+               <note>Orig.: 'Ilias.</note>
+               <idno type="other">Xb * Jurić. Scriptores</idno>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">NSK Zagreb RIIF-2o-28</ref>
+               </relatedItem>
+               <relatedItem type="digitalizat-internet">
+                  <ref type="gbs" target="http://books.google.com/books?id=Hx1LAAAAcAAJ">Homeri Ilias latinis versibus expressa a Raymundo Cunichio Ragusino - Homerus, Raimondo Cunich - Google Books</ref>
+               </relatedItem>
+               <relatedItem type="digitalizat-internet">
+                  <ref type="gbs" target="http://books.google.com/books?id=XXxBAAAAcAAJ">Homeri Ilias Latinis versibus ... - Google Books</ref>
+               </relatedItem>
+               <relatedItem type="digitalizat-internet">
+                  <ref type="bsb" target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10209549-1">Ilias / Homerus<note> RaimundusCunichius hrvlat-internet</note>
+                  </ref>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+    <encodingDesc>
+      <refsDecl xml:base="http://croala.ffzg.unizg.hr/opera/urn:cts:croala" xml:id="kunic-r-ilias-argum.xml" ana="croala:cts">
+        <cRefPattern matchPattern="titulus" replacementPattern="/tei:TEI/tei:text/tei:body/tei:div/tei:head[@n='?']">
+          <p>This pattern references head of the text in CTS.</p>
+        </cRefPattern>
+        <cRefPattern matchPattern="versus" replacementPattern="/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='?']">
+          <p>This pattern references l of the text in CTS.</p>
+        </cRefPattern>
+      </refsDecl>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="abstract" occurs="1"/>
+          <tagUsage gi="author" occurs="3"/>
+          <tagUsage gi="bibl" occurs="1"/>
+          <tagUsage gi="biblStruct" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="change" occurs="1"/>
+          <tagUsage gi="creation" occurs="1"/>
+          <tagUsage gi="date" occurs="6"/>
+          <tagUsage gi="div" occurs="1"/>
+          <tagUsage gi="editionStmt" occurs="1"/>
+          <tagUsage gi="editor" occurs="1"/>
+          <tagUsage gi="encodingDesc" occurs="1"/>
+          <tagUsage gi="extent" occurs="2"/>
+          <tagUsage gi="fileDesc" occurs="1" withId="1"/>
+          <tagUsage gi="head" occurs="2"/>
+          <tagUsage gi="idno" occurs="1"/>
+          <tagUsage gi="imprint" occurs="1"/>
+          <tagUsage gi="keywords" occurs="3"/>
+          <tagUsage gi="l" occurs="25"/>
+          <tagUsage gi="langUsage" occurs="1"/>
+          <tagUsage gi="language" occurs="1"/>
+          <tagUsage gi="monogr" occurs="1"/>
+          <tagUsage gi="name" occurs="1"/>
+          <tagUsage gi="namespace" occurs="1"/>
+          <tagUsage gi="note" occurs="2"/>
+          <tagUsage gi="num" occurs="1"/>
+          <tagUsage gi="orgName" occurs="1"/>
+          <tagUsage gi="p" occurs="5"/>
+          <tagUsage gi="particDesc" occurs="1"/>
+          <tagUsage gi="persName" occurs="4" withId="1"/>
+          <tagUsage gi="placeName" occurs="1"/>
+          <tagUsage gi="profileDesc" occurs="1"/>
+          <tagUsage gi="pubPlace" occurs="1"/>
+          <tagUsage gi="publicationStmt" occurs="1"/>
+          <tagUsage gi="publisher" occurs="1"/>
+          <tagUsage gi="ref" occurs="8" withId="1"/>
+          <tagUsage gi="relatedItem" occurs="4"/>
+          <tagUsage gi="resp" occurs="1"/>
+          <tagUsage gi="respStmt" occurs="1"/>
+          <tagUsage gi="revisionDesc" occurs="1"/>
+          <tagUsage gi="settingDesc" occurs="1"/>
+          <tagUsage gi="sourceDesc" occurs="1"/>
+          <tagUsage gi="tagUsage" occurs="46"/>
+          <tagUsage gi="tagsDecl" occurs="1"/>
+          <tagUsage gi="teiHeader" occurs="1"/>
+          <tagUsage gi="term" occurs="5"/>
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="textClass" occurs="1"/>
+          <tagUsage gi="title" occurs="2"/>
+          <tagUsage gi="titleStmt" occurs="1"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date notAfter="1776" period="17xx_3_third">1776</date>
+            
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>poesis</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae recentiores (1600-1850)</term>
+               <term>Saeculum 18 (1701-1800)</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>poesis - epigramma</term>
+               <term>poesis - paratextus poetici</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2013-01-06T18:05:52</date>
+            Početna TEI XML verzija.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div ana="poesis-epigramma" met="hexameter">
+            <head n="head1">ARGUMENTA SINGULORUM LIBRORUM SINGULIS VERSIBUS</head>
+            <head n="head2" type="sub">AB INTERPRETE COMPREHENSA.</head>
+            <l n="l1">I. Iratus bello sociali absistit Achilles. </l>
+            <l n="l2">II. Falsa Mycenaeum ludunt insomnia regem. </l>
+            <l n="l3">B. Quo duce, qui populi, quotnam venere carinis. </l>
+            <l n="l4">
+               <num value="3">III</num>. Ergo Helenae soli pugnant Paris et Menelaus. </l>
+            <l n="l5">IV. Confundit foedus Pallas, pugna aspera surgit.</l>
+            <l n="l6">V. Tydides Venerem, dehinc Martem vulnerat hasta. </l>
+            <l n="l7">VI. Urbem adit, Andromachen affatur Martius Hector. </l>
+            <l n="l8">VII. Stant acies: medii confligunt Hector, et Ajax. </l>
+            <l n="l9">VIII. Jupiter Argivos premit: Hector laude superbit. </l>
+            <l n="l10">IX. Peliden orant reges, nec flectere possunt. </l>
+            <l n="l11">X. Tydides socio Troas speculatur Ulysse. </l>
+            <l n="l12">XI. Pugna, ubi primores Danaum sunt vulnere laes i.</l>
+            <l n="l13">XII. Grajorum ad murum pugnant: intro irruit Hector. </l>
+            <l n="l14">XIII. Neptunus Danais vires clam fratre ministrat.</l>
+            <l n="l15">XIV. Illicit, et somno componit Juno Tonantem. </l>
+            <l n="l16">XV. Jupiter evigilat; fratrem fugat, Hectora firmat.</l>
+            <l n="l17">XVI. Patroclum leto victorem dejicit Hector.</l>
+            <l n="l18">XVII. Ingens Patrocli ad gelidum fit pugna cadaver. </l>
+            <l n="l19">XVIII. Arma parat solers dio Vulcanus Achilli.</l>
+            <l n="l20">XIX. Desinit irarum, belloque armatur Achilles.</l>
+            <l n="l21">XX. Divi inter sese magno certamine pugnant. </l>
+            <l n="l22">XXI. Aeacidae labor ad Xantum, pugnaeque deorum. </l>
+            <l n="l23">XXII. Hectora persequitur, caesoque insultat Achilles. </l>
+            <l n="l24">XXIII. Patrocli funus,vario et certamine ludi.</l>
+            <l n="l25">XXIV. Redditur Hectoreum corpus, fletumque crematur. </l>
+         </div>      
+      </body>
+   </text>
+</TEI>

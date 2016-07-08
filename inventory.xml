@@ -1,0 +1,2117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory
+  tiid="hccroala"
+  tiversion="5.0.rc.1"
+  xmlns="http://chs.harvard.edu/xmlns/cts"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <ctsnamespace
+    abbr="croala"
+    ns="http://croala.ffzg.unizg.hr/hccroala/textus">
+    <description
+      xml:lang="eng"> A selection of Croatian Latin with CTS identifiers. </description>
+  </ctsnamespace>
+  
+  <!-- croala -->
+
+  
+<textgroup urn="urn:cts:croala:adam:">
+  <groupname xml:lang="hrv">Adam, redovnik floruit 1070</groupname>
+  <work urn="urn:cts:croala:adam.radauanus-traditio:" xml:lang="lat">
+    <title xml:lang="lat">Donatio Radauani, versio electronica</title>
+    <edition urn="urn:cts:croala:adam.radauanus-traditio.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Vukušić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:albert-i:">
+  <groupname xml:lang="hrv">Alberti, Janko c. 1427-1493</groupname>
+  <work urn="urn:cts:croala:albert-i.inscr:" xml:lang="lat">
+    <title xml:lang="lat">Janci Alberti inscriptio, versio electronica</title>
+    <edition urn="urn:cts:croala:albert-i.inscr.croala-op:">
+      <label xml:lang="lat">Edidit: Cvito Fisković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:albert-n:">
+  <groupname xml:lang="hrv">Alberti, Nikola c. 1450 - c. 1500</groupname>
+  <work urn="urn:cts:croala:albert-n.adlect:" xml:lang="lat">
+    <title xml:lang="lat">Ad lectorem vitae Maruli, versio electronica</title>
+    <edition urn="urn:cts:croala:albert-n.adlect.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Listopad 2011</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:anastasius:">
+  <groupname xml:lang="hrv">Anastazije, hrvatski biskup i kraljev kancelar floruit 1070</groupname>
+  <work urn="urn:cts:croala:anastasius.confirmatio-radovani:" xml:lang="lat">
+    <title xml:lang="lat">Confirmatio Radovani, versio electronica</title>
+    <edition urn="urn:cts:croala:anastasius.confirmatio-radovani.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Vukušić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:andreis-f:">
+  <groupname xml:lang="hrv">Andreis, Franjo Trankvil 1490-1571</groupname>
+  
+  <work urn="urn:cts:croala:andreis-f.const:" xml:lang="lat">
+    <title xml:lang="lat">Commentarius rerum actarum Constantinopoli anno 1542. Versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.const.croala-op:">
+      <label xml:lang="lat">Edidit: Srećko M. Džaja.  Edidit: Guenter Weiss. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Studenoga 2011.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-1538-07-11:" xml:lang="lat">
+    <title xml:lang="lat">Franciscus Andronicus Tranquillus Antonio Werancio, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-1538-07-11.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-1538-10-03:" xml:lang="lat">
+    <title xml:lang="lat">Franciscus Andronicus Tranquillus Antonio Wrancio, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-1538-10-03.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-1550-02-25:" xml:lang="lat">
+    <title xml:lang="lat">Antonio Verantio Tranquillus Andronicus, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-1550-02-25.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-1569-10-19:" xml:lang="lat">
+    <title xml:lang="lat">Ad Reverendissimum dominum Antonium Verantium Archiepiscopum Strigoniensem, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-1569-10-19.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-1570-02-02:" xml:lang="lat">
+    <title xml:lang="lat">Reverendissimo et observandissimo d. Domino meo Antonio Verantio Archiepiscopo Strigoniensi etc. in Hungaria, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-1570-02-02.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-1571-06-30:" xml:lang="lat">
+    <title xml:lang="lat">Ad Archiepiscopum Strigoniensem Antonium Verantium, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-1571-06-30.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.1529-02-15:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Iohannem Bonzanum, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.1529-02-15.croala-op:">
+      <label xml:lang="lat">Edidit: Emilij Laszowski. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao na Odsjeku za klasičnu filologiju, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Svibnja 2016.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.epist-lasc:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Ianum de Lasco, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.epist-lasc.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Lipnja 2011.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:andreis-f.lectori-phil:" xml:lang="lat">
+    <title xml:lang="lat">Lectori verum describit philosophum, versio electronica</title>
+    <edition urn="urn:cts:croala:andreis-f.lectori-phil.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Studeni 2011.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:andronic-trag:">
+  <groupname xml:lang="hrv">Andreis Trogiranin c. 1500?</groupname>
+  <work urn="urn:cts:croala:andronic-trag.elegia:" xml:lang="lat">
+    <title xml:lang="lat">Ad puerum forma superbientem elegia, versio electronica</title>
+    <edition urn="urn:cts:croala:andronic-trag.elegia.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin; Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Versio electronica TEI XML: Croatiae auctores Latini, indagatio in Facultate philosophica Universitatis Zagrabiensis , Zagreb, Croatia, mense Decembri 2011.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:anffredus:">
+  <groupname xml:lang="hrv">Anffredus presbiter floruit 1034</groupname>
+  <work urn="urn:cts:croala:anffredus.savinae-donatio:" xml:lang="lat">
+    <title xml:lang="lat">Sauinae donatio, versio electronica</title>
+    <edition urn="urn:cts:croala:anffredus.savinae-donatio.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Vukušić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:anonymus:">
+  <groupname xml:lang="hrv">Anonymus 1800</groupname>
+  <work urn="urn:cts:croala:anonymus.hymnus-1800:" xml:lang="lat">
+    <title xml:lang="lat">Hymnus Nativitatis e Croatico in Latinum versus, versio electronica.</title>
+    <edition urn="urn:cts:croala:anonymus.hymnus-1800.croala-op:">
+      <label xml:lang="lat">Edidit: August Musić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:banic-j:">
+  <groupname xml:lang="hrv">Baničević, Jakov 1466-1532</groupname>
+  <work urn="urn:cts:croala:banic-j.epist-1511-04-29:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Alouisium Brengier (1511-04-29), versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist-1511-04-29.croala-op:">
+      <label xml:lang="lat">Edidit: G. Amboise. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:banic-j.epist-1515-01-17:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Margaretam Archiducissam (1515-01-17), versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist-1515-01-17.croala-op:">
+      <label xml:lang="lat">Edidit: G. Amboise. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:banic-j.epist-1524-03-02:" xml:lang="lat">
+    <title xml:lang="lat">Magnifico et prestantissimo domino Wilibaldo Pirckheymer, versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist-1524-03-02.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:banic-j.epist-dantisc-1516-01-06:" xml:lang="lat">
+    <title xml:lang="lat">Spectabili et egregio Domino Ioanni de Curijs Dantisco, versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist-dantisc-1516-01-06.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:banic-j.epist-dantisc-1516-01-10:" xml:lang="lat">
+    <title xml:lang="lat">Magnifico domino Ioanni de Curiis Dantisco, versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist-dantisc-1516-01-10.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:banic-j.epist-hel:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Stephanum Ponchierium, versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist-hel.croala-op:">
+      <label xml:lang="lat">Edidit: Alexander Apponyi. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:banic-j.epist:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Erasmum Roterodamum, versio electronica.</title>
+    <edition urn="urn:cts:croala:banic-j.epist.croala-op:">
+      <label xml:lang="lat">Edidit: P. S. Allen. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:begnius-s:">
+  <groupname xml:lang="hrv">Kožičić Benja, Šimun Kožičić Benja, Šimun c. 1460 - 1536.</groupname>
+  <work urn="urn:cts:croala:begnius-s.corvatiae:" xml:lang="lat">
+    <title xml:lang="lat">De Corvatiae desolatione, versio electronica</title>
+    <edition urn="urn:cts:croala:begnius-s.corvatiae.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Srpnja 2013.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:begnius-s.elogium:" xml:lang="lat">
+    <title xml:lang="lat">Elogium... in Etymon reuerendissimi patris magistri Dominici Buchiae, versio electronica</title>
+    <edition urn="urn:cts:croala:begnius-s.elogium.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljača 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:begnius-s.lectoribus:" xml:lang="lat">
+    <title xml:lang="lat">Simon Begnius episcopus Modrusiensis lectoribus bene vivere, versio electronica</title>
+    <edition urn="urn:cts:croala:begnius-s.lectoribus.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljača 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:benesa-d:">
+  <groupname xml:lang="hrv">Beneša, Damjan 1476-1539</groupname>
+  <work urn="urn:cts:croala:benesa-d.epiced-bun:" xml:lang="lat">
+    <title xml:lang="lat">Epicedion in morte Jacobi Boni, versio electronica</title>
+    <edition urn="urn:cts:croala:benesa-d.epiced-bun.croala-op:">
+      <label xml:lang="lat">Edidit: Đuro Körbler. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Lipnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:benesa-d.epigr-cerv:" xml:lang="lat">
+    <title xml:lang="lat">Epigramma ad Alvisium Cervinum Tuberonem abbatem, versio electronica</title>
+    <edition urn="urn:cts:croala:benesa-d.epigr-cerv.croala-op:">
+      <label xml:lang="lat">Edidit: Vladimir Rezar. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Croatica et Tyrolensia, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Ožujka 2014</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:benesa-p:">
+  <groupname xml:lang="hrv">Beneša, Petar fl. 1570</groupname>
+  <work urn="urn:cts:croala:benesa-p.epist-1570:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Ioannem II. Zapolyam, versio electronica</title>
+    <edition urn="urn:cts:croala:benesa-p.epist-1570.croala-op:">
+      <label xml:lang="lat">Edidit: Vladimir Rezar. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:berislavic-p:">
+  <groupname xml:lang="hrv">Berislavić, Petar 1475–1520</groupname>
+  <work urn="urn:cts:croala:berislavic-p.epist-1518-04-10:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Berislavus episcopus Vespriminensis Leoni papae X, versio electronica</title>
+    <edition urn="urn:cts:croala:berislavic-p.epist-1518-04-10.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:berislavic-p.epist-1519-09-05:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Berislavus episcopus Vespriminensis Leoni papae X, versio electronica</title>
+    <edition urn="urn:cts:croala:berislavic-p.epist-1519-09-05.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:bolica-i:">
+  <groupname xml:lang="hrv">Bolica, Ivan c. 1520 – 1572</groupname>
+  <work urn="urn:cts:croala:bolica-i.desc:" xml:lang="lat">
+    <title xml:lang="lat">Descriptio Ascriviensis urbis, versio electronica</title>
+    <edition urn="urn:cts:croala:bolica-i.desc.croala-op:">
+      <label xml:lang="lat">CroALa</label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb, Hrvatska. siječnja 2010</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:boskovic-r:">
+  <groupname xml:lang="hrv">Bošković, Ruđer 1711-1787</groupname>
+  <work urn="urn:cts:croala:boskovic-r.ecl:" xml:lang="lat">
+    <title xml:lang="lat">Ecloga recitata in publico Arcadum consessu, versio electronica</title>
+    <edition urn="urn:cts:croala:boskovic-r.ecl.croala-op:">
+      <label xml:lang="lat">CroALa</label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Studeni 2011.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:brlic-ia:">
+  <groupname xml:lang="hrv">Brlić, Ignjat Alojzije 1795-1855</groupname>
+  <work urn="urn:cts:croala:brlic-ia.epist:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Andriam Torquatum filium, versio electronica.</title>
+    <edition urn="urn:cts:croala:brlic-ia.epist.croala-op:">
+      <label xml:lang="lat">Edidit: Ivan Brlić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2008.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:brodaric-s:">
+  <groupname xml:lang="hrv">Brodarić, Stjepan 1490-1539</groupname>
+  <work urn="urn:cts:croala:brodaric-s.epist-1512-09-14:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Aldum Manutium, versio electronica.</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1512-09-14.croala-op:">
+      <label xml:lang="lat">Edidit: Eugen Abel.  Edidit: Pierre de Nolhac. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1525-09-13:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus secretarius regius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1525-09-13.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1525-09-30:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus secretarius regius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1525-09-30.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1525-11-30:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus secretarius regius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1525-11-30.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-02-22:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus secretarius regius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-02-22.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-03-12:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus electus episcopus Sirmiensis, cancellarius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-03-12.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-03-17:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus electus episcopus Sirmiensis, cancellarius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-03-17.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-03-26:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus cancellarius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-03-26.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-07-27:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus cancellarius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-07-27.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-09-10:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus cancellarius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-09-10.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1526-10-04:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus cancellarius Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1526-10-04.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1533-03-08:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus Episcopus Sirmiensis Nicolao Olao, versio electronica.</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1533-03-08.croala-op:">
+      <label xml:lang="lat">Edidit: Arnold Ipolyi. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1533-05-08:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus episcopus Sirmiensis Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1533-05-08.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1533-08-01:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus episcopus Sirmiensis Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1533-08-01.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1533-12-10:" xml:lang="lat">
+    <title xml:lang="lat">Stephanus Brodericus episcopus Sirmiensis Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1533-12-10.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1536-02-26:" xml:lang="lat">
+    <title xml:lang="lat">S. Brodericus Episcopus Quinqueecclesiensis Nicolao Olao suo, versio electronica.</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1536-02-26.croala-op:">
+      <label xml:lang="lat">Edidit: Arnold Ipolyi. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:brodaric-s.epist-1536-04-22:" xml:lang="lat">
+    <title xml:lang="lat">Brodericus Nicolao Olao suo, versio electronica.</title>
+    <edition urn="urn:cts:croala:brodaric-s.epist-1536-04-22.croala-op:">
+      <label xml:lang="lat">Edidit: Arnold Ipolyi. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:bulic-f:">
+  <groupname xml:lang="hrv">Bulić, don Frane 1846–1934</groupname>
+  <work urn="urn:cts:croala:bulic-f.epist:" xml:lang="lat">
+    <title xml:lang="lat">Epistula salutatoria, versio electronica</title>
+    <edition urn="urn:cts:croala:bulic-f.epist.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:bulic-f.epitaph:" xml:lang="lat">
+    <title xml:lang="lat">Sui ipsius epitaphium, versio electronica</title>
+    <edition urn="urn:cts:croala:bulic-f.epitaph.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:cibel-v:">
+  <groupname xml:lang="hrv">Cibel, Valentin c. 1490 - post 1517</groupname>
+  <work urn="urn:cts:croala:cibel-v.pannonia:" xml:lang="lat">
+    <title xml:lang="lat">Ad Pannoniam, versio electronica</title>
+    <edition urn="urn:cts:croala:cibel-v.pannonia.croala-op:">
+      <label xml:lang="lat">Edidit: Maria Révész. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:cipiko-a:">
+  <groupname xml:lang="hrv">Cipiko, Alviz 1456-1504</groupname>
+  <work urn="urn:cts:croala:cipiko-a.ad-lectorem:" xml:lang="lat">
+    <title xml:lang="lat">Cippicus ad lectorem, versio electronica</title>
+    <edition urn="urn:cts:croala:cipiko-a.ad-lectorem.croala-op:">
+      <label xml:lang="lat">CroALa</label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. 2014-05-01</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:cipiko-a.naenia:" xml:lang="lat">
+    <title xml:lang="lat">Naenia de clarissimo adolescente Petro Rhiario Sixti summi pontificis nepote, versio electronica</title>
+    <edition urn="urn:cts:croala:cipiko-a.naenia.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. 2011-06-01</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:cipiko-k:">
+  <groupname xml:lang="hrv">Cipiko, Koriolan 1425-1493</groupname>
+  <work urn="urn:cts:croala:cipiko-k.inscr-aedif:" xml:lang="lat">
+    <title xml:lang="lat">Villae aedificatae inscriptio, versio electronica</title>
+    <edition urn="urn:cts:croala:cipiko-k.inscr-aedif.croala-op:">
+      <label xml:lang="lat">Edidit: Vid Vuletić-Vukasović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:cipiko-k.inscr:" xml:lang="lat">
+    <title xml:lang="lat">Villae renovatae inscriptio, versio electronica</title>
+    <edition urn="urn:cts:croala:cipiko-k.inscr.croala-op:">
+      <label xml:lang="lat">Edidit: Vid Vuletić-Vukasović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:crijev-i:">
+  <groupname xml:lang="hrv">Crijević, Ilija 1463-1520</groupname>
+  <work urn="urn:cts:croala:crijev-i.palladino:" xml:lang="lat">
+    <title xml:lang="lat">Aelius Lampridius Cervinus Paulo Palladino suo, versio electronica</title>
+    <edition urn="urn:cts:croala:crijev-i.palladino.croala-op:">
+      <label xml:lang="lat">Edidit: Sante Graciotti. </label>
+      <description xml:lang="hrv">Podatak o izdanju: TEI XML verzija priređena u okviru znanstvenog projekta Digitalizacija hrvatskih latinista, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:crnkovic-p:">
+  <groupname xml:lang="hrv">Črnković, Petar Stanislav 1658–1703</groupname>
+  <work urn="urn:cts:croala:crnkovic-p.epist:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Paulum Ritter, versio electronica</title>
+    <edition urn="urn:cts:croala:crnkovic-p.epist.croala-op:">
+      <label xml:lang="lat">Edidit: Vjekoslav Klaić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Versio electronica TEI XML: Croatiae auctores Latini, indagatio in Facultate philosophica Universitatis Zagrabiensis , Zagreb, Croatia, mense Augusto 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:didacus-p:">
+  <groupname xml:lang="hrv">Pir, Didak 1517 – 1599</groupname>
+  <work urn="urn:cts:croala:didacus-p.slatarichio:" xml:lang="lat">
+    <title xml:lang="lat">Michaeli Mensio, senatori gravissimo et aerarii IIIviro S. D., versio electronica</title>
+    <edition urn="urn:cts:croala:didacus-p.slatarichio.croala-op:">
+      <label xml:lang="lat">Edidit: Đuro Körbler. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Svibanj 2014.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:difnic-g:">
+  <groupname xml:lang="hrv">Divnić, Juraj 1450?-1530</groupname>
+  <work urn="urn:cts:croala:difnic-g.epist-alex-vi:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Alexandrum VI Georgii Difnici Dalmatae episcopi Nonensis, versio electronica</title>
+    <edition urn="urn:cts:croala:difnic-g.epist-alex-vi.croala-op:">
+      <label xml:lang="lat">Edidit: Olga Perić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. srpanj 2005</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:divnic-ik:">
+  <groupname xml:lang="hrv">Divnić, Ivan Krstitelj floruit 1608</groupname>
+  <work urn="urn:cts:croala:divnic-ik.epigr:" xml:lang="lat">
+    <title xml:lang="lat">In librum statutorum Sibenicensium epigramma, versio electronica</title>
+    <edition urn="urn:cts:croala:divnic-ik.epigr.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. ožujka 2010</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:djurdjev-i:">
+  <groupname xml:lang="hrv">Đurđević, Ignjat 1675-1737</groupname>
+  <work urn="urn:cts:croala:djurdjev-i.kostka:" xml:lang="lat">
+    <title xml:lang="lat">B. Stanislai Kostkae obitus. Poema, versio electronica</title>
+    <edition urn="urn:cts:croala:djurdjev-i.kostka.croala-op:">
+      <label xml:lang="lat">Edidit: Veljko Gortan. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Hrvatska latinistička epika, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2014.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:djurdjev-i.melit:" xml:lang="lat">
+    <title xml:lang="lat">Januario Salines Suo S. P. D., versio electronica</title>
+    <edition urn="urn:cts:croala:djurdjev-i.melit.croala-op:">
+      <label xml:lang="lat">Edidit: Milivoj Šrepel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:draskovic-j:">
+  <groupname xml:lang="hrv">Drašković, Juraj 1525-1587 Drašković, Janko 1770-1856</groupname>
+  <work urn="urn:cts:croala:draskovic-j.epist-1556:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Marcum Horwath, versio electronica</title>
+    <edition urn="urn:cts:croala:draskovic-j.epist-1556.croala-op:">
+      <label xml:lang="lat">Edidit: Vjekoslav Klaić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. rujna 2009</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:draskovic-j.epist-1839-05-06:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Metellum Ožegović (Rečica, 6. 5. 1839), versio electronica.</title>
+    <edition urn="urn:cts:croala:draskovic-j.epist-1839-05-06.croala-op:">
+      <label xml:lang="lat">Edidit: Milivoj Šrepel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:draskovic-j.epist-1839-11-12:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Metellum Ožegović (Rečica, 12. 11. 1839), versio electronica.</title>
+    <edition urn="urn:cts:croala:draskovic-j.epist-1839-11-12.croala-op:">
+      <label xml:lang="lat">Edidit: Milivoj Šrepel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:draskovic-j.or:" xml:lang="lat">
+    <title xml:lang="lat">Oratio apud comitatum Zagrabiensem, versio electronica.</title>
+    <edition urn="urn:cts:croala:draskovic-j.or.croala-op:">
+      <label xml:lang="lat">Edidit: Milivoj Šrepel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:dubrovnik:">
+  <groupname xml:lang="hrv">Rektor i Veliko vijeće Dubrovnika</groupname>
+  <work urn="urn:cts:croala:dubrovnik.epist-1525-03-25:" xml:lang="lat">
+    <title xml:lang="lat">Rector et consilium Rhagusii Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:dubrovnik.epist-1525-03-25.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:dubrovnik.epist-1531-07-22:" xml:lang="lat">
+    <title xml:lang="lat">Rector et consilium Rhagusii Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:dubrovnik.epist-1531-07-22.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:dubrovnik.epist-1532-11-11:" xml:lang="lat">
+    <title xml:lang="lat">Rector et consilium Rhagusii Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:dubrovnik.epist-1532-11-11.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:feric-d:">
+  <groupname xml:lang="hrv">Ferić Gvozdenica, Đuro 1739–1820</groupname>
+  <work urn="urn:cts:croala:feric-d.el-t:" xml:lang="lat">
+    <title xml:lang="lat">Elegia de tonsore, versio electronica</title>
+    <edition urn="urn:cts:croala:feric-d.el-t.croala-op:">
+      <label xml:lang="lat">Edidit: Joseph Nicolas Barbier-Vemars. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:frankapan-b:">
+  <groupname xml:lang="hrv">Frankapan, Bernardin 1453-1529</groupname>
+  <work urn="urn:cts:croala:frankapan-b.epist-1525-02-15:" xml:lang="lat">
+    <title xml:lang="lat">Bernardinus de Frangepanibus Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:frankapan-b.epist-1525-02-15.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:frankapan-f:">
+  <groupname xml:lang="hrv">Frankapan, Franjo m. 1543</groupname>
+  <work urn="urn:cts:croala:frankapan-f.epist-1533-07-05:" xml:lang="lat">
+    <title xml:lang="lat">Franciscus de Frangepanibus Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:frankapan-f.epist-1533-07-05.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:frankapan-krsto:">
+  <groupname xml:lang="hrv">Frankapan, Krsto 1482-1527</groupname>
+  <work urn="urn:cts:croala:frankapan-krsto.epist-1525-08-09:" xml:lang="lat">
+    <title xml:lang="lat">Chistophorus de Frangepanibus comes Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:frankapan-krsto.epist-1525-08-09.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:gaj-lj:">
+  <groupname xml:lang="hrv">Gaj, Ljudevit 1770-1856</groupname>
+  <work urn="urn:cts:croala:gaj-lj.epist-1833-02-14:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Franciscum Vlašić, versio electronica.</title>
+    <edition urn="urn:cts:croala:gaj-lj.epist-1833-02-14.croala-op:">
+      <label xml:lang="lat">Edidit: Velimir Deželić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:galac-d:">
+  <groupname xml:lang="hrv">Galac, Dragutin 1819-1883</groupname>
+  <work urn="urn:cts:croala:galac-d.epist-1845-10-06:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Ljudevitum Gaj, versio electronica.</title>
+    <edition urn="urn:cts:croala:galac-d.epist-1845-10-06.croala-op:">
+      <label xml:lang="lat">Edidit: Velimir Deželić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:getaldic-v:">
+  <groupname xml:lang="hrv">Dante Alighieri 1265-1321 Getaldić, Vlaho 1788 - 1872</groupname>
+  <work urn="urn:cts:croala:getaldic-v.ugolino:" xml:lang="lat">
+    <title xml:lang="lat">Mortis Hugolini versio Latina, versio electronica</title>
+    <edition urn="urn:cts:croala:getaldic-v.ugolino.croala-op:">
+      <label xml:lang="lat">Edidit: Alessandro Piegadi.  Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Rujna 2014</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:gotius-i:">
+  <groupname xml:lang="hrv">Gučetić, Ivan 1451-1502</groupname>
+  <work urn="urn:cts:croala:gotius-i.epigramma:" xml:lang="lat">
+    <title xml:lang="lat">Epigramma in morte Domiti Calderini, versio electronica</title>
+    <edition urn="urn:cts:croala:gotius-i.epigramma.croala-op:">
+      <label xml:lang="lat">Edidit: Darko Novaković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpanj 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:grad-senj:">
+  <groupname xml:lang="hrv">Grad Senj</groupname>
+  <work urn="urn:cts:croala:grad-senj.epist-1531-07-17:" xml:lang="lat">
+    <title xml:lang="lat">Epistolae ad principes, versio electronica</title>
+    <edition urn="urn:cts:croala:grad-senj.epist-1531-07-17.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:gradic-s:">
+  <groupname xml:lang="hrv">Gradić, Stjepan, Dubrovnik, 1613. — 1683.</groupname>
+  <work urn="urn:cts:croala:gradic-s.epist-palmot:" xml:lang="lat">
+    <title xml:lang="lat">Junio Palmottae S. P. D., versio electronica</title>
+    <edition urn="urn:cts:croala:gradic-s.epist-palmot.croala-op:">
+      <label xml:lang="lat">Edidit: Milivoj Šrepel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:gradic-s.hendec:" xml:lang="lat">
+    <title xml:lang="lat">Hendecasyllabi, versio electronica</title>
+    <edition urn="urn:cts:croala:gradic-s.hendec.croala-op:">
+      <label xml:lang="lat">Edidit: Sebastien Cramoisy. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:gradic-s.insula:" xml:lang="lat">
+    <title xml:lang="lat">De insulae Jupanae amoenitate., versio electronica</title>
+    <edition urn="urn:cts:croala:gradic-s.insula.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:gradic-s.palmotta:" xml:lang="lat">
+    <title xml:lang="lat">Ad Junium Palmottam, versio electronica</title>
+    <edition urn="urn:cts:croala:gradic-s.palmotta.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:gradic-s.palmottae-vita:" xml:lang="lat">
+    <title xml:lang="lat">De vita, ingenio, et studiis Junii Palmottae, versio electronica</title>
+    <edition urn="urn:cts:croala:gradic-s.palmottae-vita.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:gradic-s.vener:" xml:lang="lat">
+    <title xml:lang="lat">Ad Venerem Titiani artificio pictam, versio electronica</title>
+    <edition urn="urn:cts:croala:gradic-s.vener.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:hrank-d:">
+  <groupname xml:lang="hrv">Hranković, Dujam m. 1422</groupname>
+  <work urn="urn:cts:croala:hrank-d.bracia:" xml:lang="lat">
+    <title xml:lang="lat">Braciae Insulae Descriptio, versio electronica</title>
+    <edition urn="urn:cts:croala:hrank-d.bracia.croala-op:">
+      <label xml:lang="lat">Edidit: Vedran Gligo ; Hrvoje Morović ; Karlo Kadlec. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska, srpnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:ian:">
+  <groupname xml:lang="hrv">Homer Jan Panonije 1434-1472</groupname>
+  <work urn="urn:cts:croala:ian.pan-diomed:" xml:lang="lat">
+    <title xml:lang="lat">Diomedis et Glauci congressus, versio electronica</title>
+    <edition urn="urn:cts:croala:ian.pan-diomed.croala-op:">
+      <label xml:lang="lat">Edidit: Samuel Teleki.  Edidit: Alexander Kovaczai. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Listopad 2013</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:ian-pan:">
+  <groupname xml:lang="hrv">Jan Panonije 1434-1472</groupname>
+  <work urn="urn:cts:croala:ian-pan.epist-gal-1462:" xml:lang="lat">
+    <title xml:lang="lat">Ad Galeottum epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:ian-pan.epist-gal-1462.croala-op:">
+      <label xml:lang="lat">Edidit: Ács Pál.  Edidit: Jankovics József.  Edidit: Kőszeghy Péter. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:ian-pan.epist-gal-1465:" xml:lang="lat">
+    <title xml:lang="lat">Galeotto suo epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:ian-pan.epist-gal-1465.croala-op:">
+      <label xml:lang="lat">Edidit: Ács Pál.  Edidit: Jankovics József.  Edidit: Kőszeghy Péter. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:ian-pan.epist-matth:" xml:lang="lat">
+    <title xml:lang="lat">Serenissimo Hungarorum regi Matthiae epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:ian-pan.epist-matth.croala-op:">
+      <label xml:lang="lat">Edidit: Ács Pál.  Edidit: Jankovics József.  Edidit: Kőszeghy Péter. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:ian-pan.oratio:" xml:lang="lat">
+    <title xml:lang="lat">Oratio legatorum Matthiae regis ad pontificem, in publica audientia, versio electronica</title>
+    <edition urn="urn:cts:croala:ian-pan.oratio.croala-op:">
+      <label xml:lang="lat">Edidit: Ács Pál.  Edidit: Jankovics József.  Edidit: Kőszeghy Péter. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:jelacic-l:">
+  <groupname xml:lang="hrv">Jelačić, Ljudevit 1792-1851</groupname>
+  <work urn="urn:cts:croala:jelacic-l.valedictoria:" xml:lang="lat">
+    <title xml:lang="lat">Valedictoria, versio electronica.</title>
+    <edition urn="urn:cts:croala:jelacic-l.valedictoria.croala-op:">
+      <label xml:lang="lat">Edidit: Franjo Fancev. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:jurjevic-j:">
+  <groupname xml:lang="hrv">Jurjević, Juraj fl. 1400</groupname>
+  <work urn="urn:cts:croala:jurjevic-j.epist-1418-06-01:" xml:lang="lat">
+    <title xml:lang="lat">Doctrina rebusque gerendis ornatissimo uiro Baptistae Bauiloquae Georgius de Georgiis plurimam salutem dicit, versio electronica.</title>
+    <edition urn="urn:cts:croala:jurjevic-j.epist-1418-06-01.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:kalic-a:">
+  <groupname xml:lang="hrv">Kalić, Arkanđeo 1739-1816</groupname>
+  <work urn="urn:cts:croala:kalic-a.adventu:" xml:lang="lat">
+    <title xml:lang="lat">In adventu Domini Gregorii Lazzari oratio, versio electronica</title>
+    <edition urn="urn:cts:croala:kalic-a.adventu.croala-op:">
+      <label xml:lang="lat">Edidit: Relja Seferović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Prosinca 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:kasic-b:">
+  <groupname xml:lang="hrv">Kašić, Bartol, Dubrovnik, 1575. — 1650.</groupname>
+  <work urn="urn:cts:croala:kasic-b.instit-epist:" xml:lang="lat">
+    <title xml:lang="lat">Ad illyricae linguae studiosos, versio electronica</title>
+    <edition urn="urn:cts:croala:kasic-b.instit-epist.croala-op:">
+      <label xml:lang="lat">Edidit: Elisabeth von Erdmann-Pandžić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2013.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:kordic-m:">
+  <groupname xml:lang="hrv">Kordić, Marko m. 1806</groupname>
+  <work urn="urn:cts:croala:kordic-m.funere-lazzari:" xml:lang="lat">
+    <title xml:lang="lat">In funere D. Gregorii Lazzari Archiepiscopi Ragusini oratio, versio electronica</title>
+    <edition urn="urn:cts:croala:kordic-m.funere-lazzari.croala-op:">
+      <label xml:lang="lat">Edidit: Relja Seferović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Prosinca 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:kravar-m:">
+  <groupname xml:lang="hrv">Kravar, Miroslav 1914-1999</groupname>
+  <work urn="urn:cts:croala:kravar-m.oratio:" xml:lang="lat">
+    <title xml:lang="lat">Oratio in conventu Latinis litteris linguaeque fovendis, versio electronica</title>
+    <edition urn="urn:cts:croala:kravar-m.oratio.croala-op:">
+      <label xml:lang="lat">CroALa</label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2013</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:krsava-j:">
+  <groupname xml:lang="hrv">Kršava, Jeronim fl. 1492</groupname>
+  <work urn="urn:cts:croala:krsava-j.epigram:" xml:lang="lat">
+    <title xml:lang="lat">Ad lectorem epigramma, versio electronica</title>
+    <edition urn="urn:cts:croala:krsava-j.epigram.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Studeni 2011.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:krsava-p:">
+  <groupname xml:lang="hrv">Kršava, Petar fl. 1434</groupname>
+  <work urn="urn:cts:croala:krsava-p.arcus:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio in arcum restitutum, versio electronica</title>
+    <edition urn="urn:cts:croala:krsava-p.arcus.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Travnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:kruzic-orlovic:">
+  <groupname xml:lang="hrv">Kružić, Petar m. 1537 Orlović, Grgur fl. 1492-1526</groupname>
+  <work urn="urn:cts:croala:kruzic-orlovic.epist-1525-04-19:" xml:lang="lat">
+    <title xml:lang="lat">Gregorius Horlovicz et Petrus Crusich, capitanei Segnie et comites Clisii Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-orlovic.epist-1525-04-19.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:kruzic-p:">
+  <groupname xml:lang="hrv">Kružić, Petar m. 1537</groupname>
+  <work urn="urn:cts:croala:kruzic-p.epist-1525-10-05a:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusich comes dominus cives et universitas populi Clisiensis Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1525-10-05a.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kruzic-p.epist-1526-01-30:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusich capitaneus Segniae Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1526-01-30.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kruzic-p.epist-1526-01-30a:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusich capitaneus Segniae Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1526-01-30a.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kruzic-p.epist-1526-01-30b:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusich capitaneus Segniae Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1526-01-30b.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kruzic-p.epist-1532-08-28:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusich comes Clissie et Lepoglave Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1532-08-28.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kruzic-p.epist-1532-09-22:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusitch castellanus Clissii Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1532-09-22.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kruzic-p.epist-1525-10-05b:" xml:lang="lat">
+    <title xml:lang="lat">Petrus Crusich capitaneus Segniae Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:kruzic-p.epist-1525-10-05b.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+
+<textgroup urn="urn:cts:croala:kunic-r:">
+  <groupname xml:lang="hrv">Kunić, Rajmund 1719-1794</groupname>
+  
+  <work urn="urn:cts:croala:kunic-r.hymnus-cererem:" xml:lang="lat">
+    <title xml:lang="lat">Ex Graeco Homeri Hymnus ad Cererem, versio electronica</title>
+    <edition urn="urn:cts:croala:kunic-r.hymnus-cererem.croala-op:">
+      <label xml:lang="lat">Edidit: Irena Bratičević. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Svibnja 2013.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:kunic-r.ilias-argum:" xml:lang="lat">
+    <title xml:lang="lat">Argumenta singulorum librorum Iliados singulis versibus comprehensa, versio electronica</title>
+    <edition urn="urn:cts:croala:kunic-r.ilias-argum.croala-op:">
+      <label xml:lang="lat">Edidit: Petra Šoštarić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2013.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+
+<textgroup urn="urn:cts:croala:makarelic-j:">
+  <groupname xml:lang="hrv">Makarelić, Jerolim floruit 1496</groupname>
+  <work urn="urn:cts:croala:makarelic-j.epigr:" xml:lang="lat">
+    <title xml:lang="lat">Carmen Hieronymi Macarelli Archipresbyteri Traguriensis, versio electronica</title>
+    <edition urn="urn:cts:croala:makarelic-j.epigr.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Versio electronica TEI XML: Croatiae auctores Latini, indagatio in Facultate philosophica Universitatis Zagrabiensis , Zagreb, Croatia, mense Aprili 2014.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:marul-mar:">
+  <groupname xml:lang="hrv">Marulić, Marko 1450-1524 Dante Alighieri 1265-1321</groupname>
+  <work urn="urn:cts:croala:marul-mar.dante:" xml:lang="lat">
+    <title xml:lang="lat">Principium operis Dantis Aligerii de Fluentino sermone in Latinum conuersum, versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.dante.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin ; Darko Novaković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Hrvatska latinistička epika, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2014</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:marul-mar.epist-1477:" xml:lang="lat">
+    <title xml:lang="lat">Ad Georgium Sisgoreum epistula (1465-1466), versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.epist-1477.croala-op:">
+      <label xml:lang="lat">Edidit: Veljko Gortan.  Edidit: Vladimir Vratović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:marul-mar.epist-1496-05-10:" xml:lang="lat">
+    <title xml:lang="lat">Venerabili pręsbitero Brachiensi Marco Prodich salutem, versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.epist-1496-05-10.croala-op:">
+      <label xml:lang="lat">Edidit: Branimir Glavičić.  Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:marul-mar.epist-1502-03-03:" xml:lang="lat">
+    <title xml:lang="lat">Reuerendo in Christo pręsbitero Iacobo Grasolario, versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.epist-1502-03-03.croala-op:">
+      <label xml:lang="lat">Edidit: Branimir Glavičić.  Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:marul-mar.epist-1502x:" xml:lang="lat">
+    <title xml:lang="lat">Reuerendo in Christo Domino Iacobo Grassolario, versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.epist-1502x.croala-op:">
+      <label xml:lang="lat">Edidit: Branimir Glavičić.  Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:marul-mar.epist-1507-04-04:" xml:lang="lat">
+    <title xml:lang="lat">Reuerendo in Christo Domino Iacobo Grassolario, versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.epist-1507-04-04.croala-op:">
+      <label xml:lang="lat">Edidit: Branimir Glavičić.  Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:marul-mar.epist-1515-04-26:" xml:lang="lat">
+    <title xml:lang="lat">Iacobo Grassolario, iuris pontificii consulto, versio electronica</title>
+    <edition urn="urn:cts:croala:marul-mar.epist-1515-04-26.croala-op:">
+      <label xml:lang="lat">Edidit: Branimir Glavičić.  Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:marullus-s:">
+  <groupname xml:lang="hrv">Marullus Macedo, Stanislaus</groupname>
+  <work urn="urn:cts:croala:marullus-s.aurium:" xml:lang="lat">
+    <title xml:lang="lat">Ad Dominicum Aurium equitem ornatissimum, versio electronica</title>
+    <edition urn="urn:cts:croala:marullus-s.aurium.croala-op:">
+      <label xml:lang="lat">Edidit: Petar Budmani. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:mazuranic-a:">
+  <groupname xml:lang="hrv">Mažuranić, Antun 1805-1888</groupname>
+  <work urn="urn:cts:croala:mazuranic-a.epist:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad A. Kaznačić, versio electronica.</title>
+    <edition urn="urn:cts:croala:mazuranic-a.epist.croala-op:">
+      <label xml:lang="lat">Edidit: Milivoj Šrepel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:michet-a:">
+  <groupname xml:lang="hrv">Mihetić, Ambroz c. 1420-post 1487</groupname>
+  <work urn="urn:cts:croala:michet-a.oratio:" xml:lang="lat">
+    <title xml:lang="lat">Ad Pasqualem Maripetrum illustrissimum Venetum ducem oratio congratulatoria, versio electronica</title>
+    <edition urn="urn:cts:croala:michet-a.oratio.croala-op:">
+      <label xml:lang="lat">Edidit: Antonija Vlahov. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječanj 2013</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:mihanovic-a:">
+  <groupname xml:lang="hrv">Mihanović, Antun 1796-1861</groupname>
+  <work urn="urn:cts:croala:mihanovic-a.osman:" xml:lang="lat">
+    <title xml:lang="lat">Literarum patriique sermonis amicis, versio electronica.</title>
+    <edition urn="urn:cts:croala:mihanovic-a.osman.croala-op:">
+      <label xml:lang="lat">Edidit: Franjo Fancev. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:mikac:">
+  <groupname xml:lang="hrv">Mikac, Nikola floruit 1573-1604</groupname>
+  <work urn="urn:cts:croala:mikac.obsidio:" xml:lang="lat">
+    <title xml:lang="lat">Obsidio Sisciensis domini Micatii Anno Domini 1592, versio electronica</title>
+    <edition urn="urn:cts:croala:mikac.obsidio.croala-op:">
+      <label xml:lang="lat">Edidit: Martin Juraj Kovačić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Travnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:milasin-f:">
+  <groupname xml:lang="hrv">Milašinović, Franjo 1808-1883</groupname>
+  <work urn="urn:cts:croala:milasin-f.viator:" xml:lang="lat">
+    <title xml:lang="lat">Viator Zagorianus Jožko Hranjec, versio electronica</title>
+    <edition urn="urn:cts:croala:milasin-f.viator.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Listopad 2008.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:modr-n:">
+  <groupname xml:lang="hrv">Nikola Modruški c. 1427-1480</groupname>
+  <work urn="urn:cts:croala:modr-n.oratio-riar:" xml:lang="lat">
+    <title xml:lang="lat">Oratio in funere Petri Riarii, versio electronica</title>
+    <edition urn="urn:cts:croala:modr-n.oratio-riar.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. srpanj 2005</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:nardin-p:">
+  <groupname xml:lang="hrv">Nardin, Petar c. 1551</groupname>
+  <work urn="urn:cts:croala:nardin-p.elegia:" xml:lang="lat">
+    <title xml:lang="lat">Elegia de laudibus Sibenici, versio electronica</title>
+    <edition urn="urn:cts:croala:nardin-p.elegia.croala-op:">
+      <label xml:lang="lat">Edidit: Tamara Tvrtković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska, ožujka 2010.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:natalis-f:">
+  <groupname xml:lang="hrv">Božićević Natalis, Frano 1469-1562</groupname>
+  <work urn="urn:cts:croala:natalis-f.paladino:" xml:lang="lat">
+    <title xml:lang="lat">Plurima Callymachi venerantur saecula manes, versio electronica</title>
+    <edition urn="urn:cts:croala:natalis-f.paladino.croala-op:">
+      <label xml:lang="lat">Edidit: Sante Graciotti. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:niger-t:">
+  <groupname xml:lang="hrv">Niger, Toma</groupname>
+  
+  <work urn="urn:cts:croala:niger-t.epist-adr-1522:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Adrianum VI, versio electronica</title>
+    <edition urn="urn:cts:croala:niger-t.epist-adr-1522.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:niger-t.epist-clem-1532:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Clementem VII, versio electronica</title>
+    <edition urn="urn:cts:croala:niger-t.epist-clem-1532.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:niger-t.epist-marul:" xml:lang="lat">
+    <title xml:lang="lat">Doctissimo et integerrimo Marco Marulo nobili Spalatensi epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:niger-t.epist-marul.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:niger-t.inscr-1527:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio sepulchri sui, versio electronica</title>
+    <edition urn="urn:cts:croala:niger-t.inscr-1527.croala-op:">
+      <label xml:lang="lat">Edidit: Stanko Josip Škunca. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0139:">
+  <groupname xml:lang="hrv">Anonymus floruit 999</groupname>
+  <work urn="urn:cts:croala:croala0139.agapes-testamentum:" xml:lang="lat">
+    <title xml:lang="lat">Agapes testamentum, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0139.agapes-testamentum.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Vukušić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0140:">
+  <groupname xml:lang="hrv">Anonymus floruit 1066</groupname>
+  <work urn="urn:cts:croala:croala0140.chart-cicca-1066:" xml:lang="lat">
+    <title xml:lang="lat">A. Ch. 1066. Cicca monasterium B. V. minoris Iaderae pro monialibus fundat, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0140.chart-cicca-1066.croala-op:">
+      <label xml:lang="lat">Edidit: Fejér György. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0141:">
+  <groupname xml:lang="hrv">Anonymus floruit 1056</groupname>
+  <work urn="urn:cts:croala:croala0141.confirmatio-iaderenses:" xml:lang="lat">
+    <title xml:lang="lat">Confirmatio Iaderensium, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0141.confirmatio-iaderenses.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Vukušić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0142:">
+  <groupname xml:lang="hrv">Anonymus fl. 1112</groupname>
+  <work urn="urn:cts:croala:croala0142.crescentius:" xml:lang="lat">
+    <title xml:lang="lat">Epitaphium Crescentii episcopi Spalatensis, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0142.crescentius.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Profil hrvatskog latiniteta, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0143:">
+  <groupname xml:lang="hrv">Anonymus 1790</groupname>
+  <work urn="urn:cts:croala:croala0143.declaratio-1790:" xml:lang="lat">
+    <title xml:lang="lat">Declaratio ex parte nunciorum Regni Croatiae, quoad inducendam Hungaricam linguam, versio electronica.</title>
+    <edition urn="urn:cts:croala:croala0143.declaratio-1790.croala-op:">
+      <label xml:lang="lat">Edidit: Franjo Fancev. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0144:">
+  <groupname xml:lang="hrv">Anonymus floruit 1020</groupname>
+  <work urn="urn:cts:croala:croala0144.gregorius:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio Gregorii proconsulis, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0144.gregorius.croala-op:">
+      <label xml:lang="lat">Edidit: NN. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+
+<textgroup urn="urn:cts:croala:croala0146:">
+  <groupname xml:lang="hrv">Anonymus floruit 1004</groupname>
+  <work urn="urn:cts:croala:croala0146.inscriptio-ragninae-1004:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio in Chronica Ragusina 1004, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0146.inscriptio-ragninae-1004.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta NOMEN, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). MENSE ANNO</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0147:">
+  <groupname xml:lang="hrv">Anonymus floruit 976</groupname>
+  <work urn="urn:cts:croala:croala0147.jelena:" xml:lang="lat">
+    <title xml:lang="lat">Helenae reginae epitaphium, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0147.jelena.croala-op:">
+      <label xml:lang="lat">Edidit: NN. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0148:">
+  <groupname xml:lang="hrv">Anonymus (Pregrada 1579) floruit 1579</groupname>
+  <work urn="urn:cts:croala:croala0148.keglevich-epitaphium:" xml:lang="lat">
+    <title xml:lang="lat">Epitaphium magnifici domini Simonis Keglewich, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0148.keglevich-epitaphium.croala-op:">
+      <label xml:lang="lat">Edidit: Lamers, Han. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2015.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0149:">
+  <groupname xml:lang="hrv">Anonymus fl. 1099</groupname>
+  <work urn="urn:cts:croala:croala0149.laurentii:" xml:lang="lat">
+    <title xml:lang="lat">Laurentii archiepiscopi epitaphium, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0149.laurentii.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Profil hrvatskog latiniteta, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0150:">
+  <groupname xml:lang="hrv">Anonymus c. 1600</groupname>
+  <work urn="urn:cts:croala:croala0150.laus-spal:" xml:lang="lat">
+    <title xml:lang="lat">In laudem Spalati, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0150.laus-spal.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. siječnja 2010.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0151:">
+  <groupname xml:lang="hrv">Anonymus fl. 1296</groupname>
+  <work urn="urn:cts:croala:croala0151.leonis-spalatensis-epit:" xml:lang="lat">
+    <title xml:lang="lat">Epitaphium Leonis Spalatensis, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0151.leonis-spalatensis-epit.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Profil hrvatskog latiniteta, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0152:">
+  <groupname xml:lang="hrv">Anonymus floruit 1020</groupname>
+  <work urn="urn:cts:croala:croala0152.mladini:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio sepulcri comitis Mladini, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0152.mladini.croala-op:">
+      <label xml:lang="lat">Edidit: Veljko Gortan. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0153:">
+  <groupname xml:lang="hrv">Anonymus fl. 1015-1030</groupname>
+  <work urn="urn:cts:croala:croala0153.paulus-epigramma:" xml:lang="lat">
+    <title xml:lang="lat">Epigramma Pauli archiepiscopi Spalatensis, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0153.paulus-epigramma.croala-op:">
+      <label xml:lang="lat">Edidit: Veljko Gortan. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Profil hrvatskog latiniteta, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0154:">
+  <groupname xml:lang="hrv">Crni, Petar c. 1050 - c. 1101</groupname>
+  <work urn="urn:cts:croala:croala0154.petrus-zerni:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio Petri Zerni sarcophago insculpta, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0154.petrus-zerni.croala-op:">
+      <label xml:lang="lat">Edidit: NN. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0155:">
+  <groupname xml:lang="hrv">Anonymus 1790</groupname>
+  <work urn="urn:cts:croala:croala0155.predstavka-1790:" xml:lang="lat">
+    <title xml:lang="lat">Ad Inclytos Dominos Status et Ordines Regnorum Dalmatiae, Croatiae et Sclavoniae generaliter congregatos, versio electronica.</title>
+    <edition urn="urn:cts:croala:croala0155.predstavka-1790.croala-op:">
+      <label xml:lang="lat">Edidit: Franjo Fancev. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:croala0156:">
+  <groupname xml:lang="hrv">Anonymus fl. 1268</groupname>
+  <work urn="urn:cts:croala:croala0156.thoma-archid:" xml:lang="lat">
+    <title xml:lang="lat">Epitaphium Thomae Archidiaconis, versio electronica</title>
+    <edition urn="urn:cts:croala:croala0156.thoma-archid.croala-op:">
+      <label xml:lang="lat">Edidit: Bratislav Lučin. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Profil hrvatskog latiniteta, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:palikuca-p:">
+  <groupname xml:lang="hrv">Palikuća, Petar, Dubrovnik, 1564. — 1650.</groupname>
+  <work urn="urn:cts:croala:palikuca-p.encom:" xml:lang="lat">
+    <title xml:lang="lat">In suam patriam encomiasticon, editio electronica</title>
+    <edition urn="urn:cts:croala:palikuca-p.encom.croala-op:">
+      <label xml:lang="lat">Edidit: Stjepan Krasić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Ožujak 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:palmotic-dz:">
+  <groupname xml:lang="hrv">Palmotić, Džore 1606.-1675.</groupname>
+  <work urn="urn:cts:croala:palmotic-dz.epist:" xml:lang="lat">
+    <title xml:lang="lat">Epistula Francisco cardinali Barberino, versio electronica</title>
+    <edition urn="urn:cts:croala:palmotic-dz.epist.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoz 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:petrov-n:">
+  <groupname xml:lang="hrv">Petrović, Nikola 1486-01-15 – 1568-04-16</groupname>
+  <work urn="urn:cts:croala:petrov-n.or-rhag:" xml:lang="lat">
+    <title xml:lang="lat">Oratio salutatoria ad Rhagusinum senatum cum primum se ad illorum Vrbem contulit, versio electronica</title>
+    <edition urn="urn:cts:croala:petrov-n.or-rhag.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. siječnja 2010</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:petrovic-v:">
+  <groupname xml:lang="hrv">Petrović, Vice (1677-1754)</groupname>
+  <work urn="urn:cts:croala:petrovic-v.amissa-ux:" xml:lang="lat">
+    <title xml:lang="lat">Amissa uxore orbitatem suam rursus deflet, versio electronica</title>
+    <edition urn="urn:cts:croala:petrovic-v.amissa-ux.croala-op:">
+      <label xml:lang="lat">Edidit: Đuro Körbler. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Humboldt Chair of Digital Humanities, University of Leipzig - Erasmus student training Leipzig Ožujka 2014.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:petrovic-v.obit-ux:" xml:lang="lat">
+    <title xml:lang="lat">In obitu uxoris elegia, versio electronica</title>
+    <edition urn="urn:cts:croala:petrovic-v.obit-ux.croala-op:">
+      <label xml:lang="lat">Edidit: Đuro Körbler. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Humboldt Chair of Digital Humanities, University of Leipzig - Erasmus student training Leipzig, Ožujka 2014.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:pima-b:">
+  <groupname xml:lang="hrv">Pima, Bernard</groupname>
+  <work urn="urn:cts:croala:pima-b.epig:" xml:lang="lat">
+    <title xml:lang="lat">Bernardi Pimae Delmatae Tetrastichon in laudem Domici Palladii Sorani, versio electronica</title>
+    <edition urn="urn:cts:croala:pima-b.epig.croala-op:">
+      <label xml:lang="lat">Edidit: Johannes Baptista Sessa.  Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:pridojev-i:">
+  <groupname xml:lang="hrv">Pridojević, Ivan c. 1600</groupname>
+  <work urn="urn:cts:croala:pridojev-i.spalat:" xml:lang="lat">
+    <title xml:lang="lat">Ad Nobiles Viros Tragurienses de Tragurii praeclarae Dalmatiae urbis laudibus carmen, versio electronica</title>
+    <edition urn="urn:cts:croala:pridojev-i.spalat.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. siječnja 2010.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:rastic-n:">
+  <groupname xml:lang="hrv">Rastić, Nikola c. 1418.–1454.</groupname>
+  <work urn="urn:cts:croala:rastic-n.epist:" xml:lang="lat">
+    <title xml:lang="lat">Clarissimo Equiti D. Francisco Barbaro S., versio electronica</title>
+    <edition urn="urn:cts:croala:rastic-n.epist.croala-op:">
+      <label xml:lang="lat">Edidit: Angelo Maria Quirini. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Travnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:rattkay-i:">
+  <groupname xml:lang="hrv">Rattkay, Ivan 1647–1683</groupname>
+  <work urn="urn:cts:croala:rattkay-i.tarahum:" xml:lang="lat">
+    <title xml:lang="lat">Relatio Tarahumarum Missionum eiusque Tarahumarae Nationis Terraeque Descriptio, editio electronica</title>
+    <edition urn="urn:cts:croala:rattkay-i.tarahum.croala-op:">
+      <label xml:lang="lat">Edidit: Ludwig Fladerer. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Neolatina Croatica, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:razmilovic-b:">
+  <groupname xml:lang="hrv">Razmilović, Bonaventura</groupname>
+  <work urn="urn:cts:croala:razmilovic-b.eleg:" xml:lang="lat">
+    <title xml:lang="lat">Admodum reverendo patri Bernardino Tissiçich vulgo Nicolanda olim provinciali dignissimo elegia, versio electronica</title>
+    <edition urn="urn:cts:croala:razmilovic-b.eleg.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljače 2013.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:rozan-a:">
+  <groupname xml:lang="hrv">Rozanović, Antun 1524 - post 1594?</groupname>
+  <work urn="urn:cts:croala:rozan-a.epigr-1540:" xml:lang="lat">
+    <title xml:lang="lat">Epigramma ad Nicolaum Nalis (1540), versio electronica.</title>
+    <edition urn="urn:cts:croala:rozan-a.epigr-1540.croala-op:">
+      <label xml:lang="lat">Edidit: Vatroslav Jagić.  Edidit: Đuro Daničić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:rozan-a.epigr-nalis-1572:" xml:lang="lat">
+    <title xml:lang="lat">Carmina, versio electronica.</title>
+    <edition urn="urn:cts:croala:rozan-a.epigr-nalis-1572.croala-op:">
+      <label xml:lang="lat">Edidit: Vatroslav Jagić.  Edidit: Đuro Daničić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sabolovic-m:">
+  <groupname xml:lang="hrv">Sabolović, Martin 1730-1801</groupname>
+  <work urn="urn:cts:croala:sabolovic-m.crisienses:" xml:lang="lat">
+    <title xml:lang="lat">Carmen macaronicum in Crisienses 1792, versio electronica</title>
+    <edition urn="urn:cts:croala:sabolovic-m.crisienses.croala-op:">
+      <label xml:lang="lat">Edidit: Olga Perić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Svibanj 2014</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sagudinus-n:">
+  <groupname xml:lang="hrv">Sagudinus, Nicolaus fl. 1452</groupname>
+  <work urn="urn:cts:croala:sagudinus-n.epist-1452:" xml:lang="lat">
+    <title xml:lang="lat">Fragmentum epistulae, versio electronica.</title>
+    <edition urn="urn:cts:croala:sagudinus-n.epist-1452.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sarar-e:">
+  <groupname xml:lang="hrv">Šarar, Erazmo fl. 1531</groupname>
+  <work urn="urn:cts:croala:sarar-e.epist-1531-07-17:" xml:lang="lat">
+    <title xml:lang="lat">Erasmus Sarar capitaneus Segniae Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:sarar-e.epist-1531-07-17.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sarar-e.epist-1532-10-12:" xml:lang="lat">
+    <title xml:lang="lat">Erasmus Sayrar capitaneus Segniae Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:sarar-e.epist-1532-10-12.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:senj-kaptol:">
+  <groupname xml:lang="hrv">Senj: Kaptol</groupname>
+  <work urn="urn:cts:croala:senj-kaptol.epist-1531-07-17:" xml:lang="lat">
+    <title xml:lang="lat">Capitulum ecclesiae Segniensis Clementi papae VII, versio electronica</title>
+    <edition urn="urn:cts:croala:senj-kaptol.epist-1531-07-17.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sisgor-g:">
+  <groupname xml:lang="hrv">Šižgorić, Juraj c. 1445-1509?</groupname>
+  <work urn="urn:cts:croala:sisgor-g.miraculum:" xml:lang="lat">
+    <title xml:lang="lat">De situ Illyriae et civitate Sibenici, versio electronica</title>
+    <edition urn="urn:cts:croala:sisgor-g.miraculum.croala-op:">
+      <label xml:lang="lat">Edidit: Daniele Farlati. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. 2014.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sisgor-g.prosopopeya:" xml:lang="lat">
+    <title xml:lang="lat">Prosopopeya, versio electronica</title>
+    <edition urn="urn:cts:croala:sisgor-g.prosopopeya.croala-op:">
+      <label xml:lang="lat">Edidit: Darko Novaković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Ova elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljača 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sizgor-j:">
+  <groupname xml:lang="hrv">Šižgorić, Juraj (stariji) biskup 1437-1454</groupname>
+  <work urn="urn:cts:croala:sizgor-j.documenta-sibenic:" xml:lang="lat">
+    <title xml:lang="lat">Documenta de ecclesia Sibenicensi a. 1449, versio electronica</title>
+    <edition urn="urn:cts:croala:sizgor-j.documenta-sibenic.croala-op:">
+      <label xml:lang="lat">Edidit: Vincenzo Miagostovich. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljača 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:skerle-n:">
+  <groupname xml:lang="hrv">Škrlec Lomnički, Nikola 1729-1799</groupname>
+  <work urn="urn:cts:croala:skerle-n.epist-verh-1798-10-16:" xml:lang="lat">
+    <title xml:lang="lat">Ad Maximilianum Verhovacz epistola 16. Octobris 1798, versio electronica</title>
+    <edition urn="urn:cts:croala:skerle-n.epist-verh-1798-10-16.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović.  Edidit: Josip Kolanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. lipnja 2009</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sobota-c:">
+  <groupname xml:lang="hrv">Sobota, Katarina c. 1469</groupname>
+  <work urn="urn:cts:croala:sobota-c.inscriptio:" xml:lang="lat">
+    <title xml:lang="lat">Sobotarum epitaphium, versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-c.inscriptio.croala-op:">
+      <label xml:lang="lat">Edidit: Pavao Andreis. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:sobota-i:">
+  <groupname xml:lang="hrv">Sobota, Ivan m. 1467 Sobota, Ivan mortuus 1467</groupname>
+  <work urn="urn:cts:croala:sobota-i.epist-1438-07-15:" xml:lang="lat">
+    <title xml:lang="lat">Epistula ad Mapheum Vallaressum (Tragurii, 1438), versio electronica.</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1438-07-15.croala-op:">
+      <label xml:lang="lat">Edidit: Darko Novaković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Svibnja 2011.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1451-06-28:" xml:lang="lat">
+    <title xml:lang="lat">Johannes Sobotae Mapheo archiepiscopo Hyadrensi (Venetiis, 1451-06-28), versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1451-06-28.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1452-08-02:" xml:lang="lat">
+    <title xml:lang="lat">Johannes Sobotae Mapheo archiepiscopo Hyadrensi, versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1452-08-02.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1453-05-20:" xml:lang="lat">
+    <title xml:lang="lat">Johannes Sobote Clarissimo P. M. S. P. D., versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1453-05-20.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1453-06-30:" xml:lang="lat">
+    <title xml:lang="lat">Johannes Sobotae Mapheo archiepiscopo Hyadrensi, versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1453-06-30.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1453-07-24:" xml:lang="lat">
+    <title xml:lang="lat">Joannes Sobote Clarissimo P. M. S. P. D., versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1453-07-24.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1454-07-27:" xml:lang="lat">
+    <title xml:lang="lat">Joannis Sobote Dalmate epistola, versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1454-07-27.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1454-08-14:" xml:lang="lat">
+    <title xml:lang="lat">Johannes Sobote clarissimo Patricio P. M. S. P. D., versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1454-08-14.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:sobota-i.epist-1454-12-24:" xml:lang="lat">
+    <title xml:lang="lat">Clarissimo patricio Petro M. Joannes Sobote, versio electronica</title>
+    <edition urn="urn:cts:croala:sobota-i.epist-1454-12-24.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Jelić.  Edidit: Franjo Rački. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Prosinca 2010.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:stafilic-i:">
+  <groupname xml:lang="hrv">Štafilić, Ivan Ioannes Staphileus 1472-1528</groupname>
+  <work urn="urn:cts:croala:stafilic-i.oratio-venetiis:" xml:lang="lat">
+    <title xml:lang="lat">Io. Stafilei episcopi Sibinicensis Iulii II. Pontificis maximi oratoris, oratio habita ad Dominium Venetum, Venetiis in Collegio die XXVII Decembris MDXII, versio electronica</title>
+    <edition urn="urn:cts:croala:stafilic-i.oratio-venetiis.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Studenoga 2015</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:staphyl-s:">
+  <groupname xml:lang="hrv">Štafilić, Stjepan fl. 1508</groupname>
+  <work urn="urn:cts:croala:staphyl-s.inscr:" xml:lang="lat">
+    <title xml:lang="lat">Stephani Staphilei inscriptio, versio electronica</title>
+    <edition urn="urn:cts:croala:staphyl-s.inscr.croala-op:">
+      <label xml:lang="lat">Edidit: Daniel Farlati. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Ožujka 2014</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:statilic-i:">
+  <groupname xml:lang="hrv">Statilić, Ivan Statilić, Ivan c. 1472 - 1542</groupname>
+  <work urn="urn:cts:croala:statilic-i.epist-1527-11-08:" xml:lang="lat">
+    <title xml:lang="lat">Joannes Statilius, praepositus Budensis, Joanni de Tarnow, comiti, palatino Russiae, exercituum regni Poloniae capitaneo generali, versio electronica</title>
+    <edition urn="urn:cts:croala:statilic-i.epist-1527-11-08.croala-op:">
+      <label xml:lang="lat">Edidit: Zygmunt Celichowski. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Ožujka 2014.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:statilic-i.oratio-1521:" xml:lang="lat">
+    <title xml:lang="lat">Ioannis Statilii Hungariae legati oratio apud Sapientum Collegium Venetum 1521, versio electronica</title>
+    <edition urn="urn:cts:croala:statilic-i.oratio-1521.croala-op:">
+      <label xml:lang="lat">Edidit: Morosini, Andrea.  Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Rad nastao na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska). Decembri 2015.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:step-n:">
+  <groupname xml:lang="hrv">Stepanić Selnički, Nikola 1553-1602</groupname>
+  <work urn="urn:cts:croala:step-n.expugn-ungnad:" xml:lang="lat">
+    <title xml:lang="lat">Epistola ad Ungnad qua expugnationem Sciscii per Turcas factam describit, versio electronica</title>
+    <edition urn="urn:cts:croala:step-n.expugn-ungnad.croala-op:">
+      <label xml:lang="lat">Edidit: Karlo Horvat. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2016</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:stephanus:">
+  <groupname xml:lang="hrv">Stjepan I, biskup zadarski floruit 1067</groupname>
+  <work urn="urn:cts:croala:stephanus.confirmatio-crisogoni:" xml:lang="lat">
+    <title xml:lang="lat">Confirmatio territorii S. Crisogoni, versio electronica</title>
+    <edition urn="urn:cts:croala:stephanus.confirmatio-crisogoni.croala-op:">
+      <label xml:lang="lat">Edidit: Luka Vukušić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:tihic-n:">
+  <groupname xml:lang="hrv">Tihić, Nikola fl. 1608</groupname>
+  <work urn="urn:cts:croala:tihic-n.epigr:" xml:lang="lat">
+    <title xml:lang="lat">In librum statutorum Sibenicensium epigramma, versio electronica</title>
+    <edition urn="urn:cts:croala:tihic-n.epigr.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. ožujka 2010</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:utjesenovic-j:">
+  <groupname xml:lang="hrv">Utješenović-Martinuzzi, Juraj 1482-1551</groupname>
+  <work urn="urn:cts:croala:utjesenovic-j.epist-1545-02-28:" xml:lang="lat">
+    <title xml:lang="lat">Epistola ad Antonium Verantium, versio electronica.</title>
+    <edition urn="urn:cts:croala:utjesenovic-j.epist-1545-02-28.croala-op:">
+      <label xml:lang="lat">Edidit: Utiešenović, Ognjeslav M..  Edidit: László Szalay.  Edidit: Gusztáv Wenzel. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Lipnja 2009.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:utjesenovic-j.epist-1547-02-07:" xml:lang="lat">
+    <title xml:lang="lat">Frater Georgius episcopus Varadiensis cardinali Alessandro Farnese, versio electronica</title>
+    <edition urn="urn:cts:croala:utjesenovic-j.epist-1547-02-07.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:vitezov-ritter-p:">
+  <groupname xml:lang="hrv">Ritter Vitezović, Pavao 1652–1713</groupname>
+  <work urn="urn:cts:croala:vitezov-ritter-p.diss:" xml:lang="lat">
+    <title xml:lang="lat">Dissertatio regni Croatiae, versio electronica</title>
+    <edition urn="urn:cts:croala:vitezov-ritter-p.diss.croala-op:">
+      <label xml:lang="lat">Edidit: Zrinka Blažević. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Versio electronica TEI XML: Croatiae auctores Latini, indagatio in Facultate philosophica Universitatis Zagrabiensis , Zagreb, Croatia, mense Decembri 2011.</description>
+      <online/>
+    </edition>
+  </work>
+  
+</textgroup>
+<textgroup urn="urn:cts:croala:vramec-a:">
+  <groupname xml:lang="hrv">Vramec, Antun 1538-1588</groupname>
+  <work urn="urn:cts:croala:vramec-a.epigr:" xml:lang="lat">
+    <title xml:lang="lat">Epigramma, versio electronica</title>
+    <edition urn="urn:cts:croala:vramec-a.epigr.croala-op:">
+      <label xml:lang="lat">Edidit: Alojz Jembrih. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Studenog 2013.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:vrancic-a:">
+  <groupname xml:lang="hrv">Vrančić, Antun 1504-1573</groupname>
+  <work urn="urn:cts:croala:vrancic-a.epist-1539-12-20:" xml:lang="lat">
+    <title xml:lang="lat">Petro de Gamratis episcopo Cracoviensi, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1539-12-20.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1542-01-10:" xml:lang="lat">
+    <title xml:lang="lat">Petro Royzio Maureae, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1542-01-10.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1543-05-16:" xml:lang="lat">
+    <title xml:lang="lat">Paulo Murany epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1543-05-16.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1543-07-20:" xml:lang="lat">
+    <title xml:lang="lat">Magdalenae Millaversiae, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1543-07-20.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1553-08-12:" xml:lang="lat">
+    <title xml:lang="lat">Petro Francisco Parrhisio, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1553-08-12.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2008.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1557-12-24:" xml:lang="lat">
+    <title xml:lang="lat">Casimiro nepoti suo salutem, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1557-12-24.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1567-04-05:" xml:lang="lat">
+    <title xml:lang="lat">Antonius Verantius episcopus Agriensis cardinali Commendone, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1567-04-05.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.epist-1573-05-03:" xml:lang="lat">
+    <title xml:lang="lat">Casimiro nepoti suo salutem, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.epist-1573-05-03.croala-op:">
+      <label xml:lang="lat">Edidit: Darko Novaković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012.</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-a.memoriale-1532:" xml:lang="lat">
+    <title xml:lang="lat">Memoriale Antonii Verantii de statu rerum Hungaricarum a morte regis Ludovici II. usque ad finem anni 1529, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-a.memoriale-1532.croala-op:">
+      <label xml:lang="lat">Edidit: Bessenyei József. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Profil hrvatskog latinizma, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:vrancic-f:">
+  <groupname xml:lang="hrv">Vrančić, Faust 1551-1617</groupname>
+  <work urn="urn:cts:croala:vrancic-f.vita-ant:" xml:lang="lat">
+    <title xml:lang="lat">Vita Antonii Werantii, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-f.vita-ant.croala-op:">
+      <label xml:lang="lat">Edidit: Martinus Georgius Kovachich. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Veljača 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:vrancic-m:">
+  <groupname xml:lang="hrv">Vrančić, Mihovil 1507 - ante 1571</groupname>
+  <work urn="urn:cts:croala:vrancic-m.encomium:" xml:lang="lat">
+    <title xml:lang="lat">Dalmatiae encomii principium, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.encomium.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1540-03-01:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1540-03-01.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1557-12-22:" xml:lang="lat">
+    <title xml:lang="lat">Stephano Chiacchio, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1557-12-22.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1558-04-29:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1558-04-29.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1558-05-25:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1558-05-25.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1558-08-22:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1558-08-22.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1558-10-01:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1558-10-01.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1558-11-06:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1558-11-06.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1558-12-27:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1558-12-27.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.epist-1559-02-09:" xml:lang="lat">
+    <title xml:lang="lat">Antonio fratri epistula, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.epist-1559-02-09.croala-op:">
+      <label xml:lang="lat">Edidit: László Szalay. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Srpnja 2012</description>
+      <online/>
+    </edition>
+  </work>
+  <work urn="urn:cts:croala:vrancic-m.error:" xml:lang="lat">
+    <title xml:lang="lat">Error devius virginis Ruthenae, versio electronica</title>
+    <edition urn="urn:cts:croala:vrancic-m.error.croala-op:">
+      <label xml:lang="lat">Edidit: Darko Novaković. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Rujna 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:vrhovac-m:">
+  <groupname xml:lang="hrv">Vrhovac, Maksimilijan 1752-1827</groupname>
+  <work urn="urn:cts:croala:vrhovac-m.poziv-1813:" xml:lang="lat">
+    <title xml:lang="lat">Ad sacerdotes epistula, versio electronica.</title>
+    <edition urn="urn:cts:croala:vrhovac-m.poziv-1813.croala-op:">
+      <label xml:lang="lat">Edidit: Franjo Fancev. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Kolovoza 2012.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:zamagna-b:">
+  <groupname xml:lang="hrv">Gundulić, Ivan 1588-1638 Zamanja, Bernard 1735-1820</groupname>
+  <work urn="urn:cts:croala:zamagna-b.osmanidos:" xml:lang="lat">
+    <title xml:lang="lat">Osmanidos fragmentum, versio electronica</title>
+    <edition urn="urn:cts:croala:zamagna-b.osmanidos.croala-op:">
+      <label xml:lang="lat">Edidit: Neven Jovanović. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Izdanje priređeno u okviru znanstvenog projekta Hrvatska latinistička epika, ( Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska). Kolovoza 2014</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:zavorovic-d:">
+  <groupname xml:lang="hrv">Zavorović, Dinko 1540-1608</groupname>
+  <work urn="urn:cts:croala:zavorovic-d.inscriptio:" xml:lang="lat">
+    <title xml:lang="lat">Inscriptio in aede, versio electronica</title>
+    <edition urn="urn:cts:croala:zavorovic-d.inscriptio.croala-op:">
+      <label xml:lang="lat">Edidit: Iva Kurelac. </label>
+      <description xml:lang="hrv">Podatak o izdanju: elektronska verzija: Croatica et Tyrolensia, znanstveni projekt na Filozofskom fakultetu Sveučilišta u Zagrebu , Zagreb Hrvatska. Ožujka 2014.</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+<textgroup urn="urn:cts:croala:zrinski-j:">
+  <groupname xml:lang="hrv">Zrinski, Juraj IV. 1599-1626</groupname>
+  <work urn="urn:cts:croala:zrinski-j.epist-zlataric:" xml:lang="lat">
+    <title xml:lang="lat">Epistola Georgii Zrinii Dominico Zlatarich, versio electronica</title>
+    <edition urn="urn:cts:croala:zrinski-j.epist-zlataric.croala-op:">
+      <label xml:lang="lat">Edidit: Stjepan Krasić. </label>
+      <description xml:lang="hrv">Podatak o izdanju: Elektronska verzija: Filozofski fakultet Sveučilišta u Zagrebu , Zagreb Hrvatska. Siječnja 2016</description>
+      <online/>
+    </edition>
+  </work>
+</textgroup>
+
+  <!-- end croala -->
+  
+
+
+</TextInventory>

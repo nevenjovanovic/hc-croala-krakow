@@ -1,0 +1,1789 @@
+<?xml-model href="CitationConfiguration.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<CitationConfiguration xmlns="http://chs.harvard.edu/xmlns/hocuspocus">
+  
+  <online type="xml" urn="urn:cts:croala:adam.radauanus-traditio.croala-op:" docname="adam-radauanus-traditio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:albert-i.inscr.croala-op:" docname="albert-i-inscr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:albert-n.adlect.croala-op:" docname="albert-n-adlect.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:anastasius.confirmatio-radovani.croala-op:" docname="anastasius-confirmatio-radovani.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.1529-02-15.croala-op:" docname="andreis-f-1529-02-15.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.const.croala-op:" docname="andreis-f-const.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-1538-07-11.croala-op:" docname="andreis-f-epist-1538-07-11.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-1538-10-03.croala-op:" docname="andreis-f-epist-1538-10-03.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-1550-02-25.croala-op:" docname="andreis-f-epist-1550-02-25.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-1569-10-19.croala-op:" docname="andreis-f-epist-1569-10-19.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-1570-02-02.croala-op:" docname="andreis-f-epist-1570-02-02.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-1571-06-30.croala-op:" docname="andreis-f-epist-1571-06-30.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  
+  <online type="xml" urn="urn:cts:croala:andreis-f.epist-lasc.croala-op:" docname="andreis-f-epist-lasc.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andreis-f.lectori-phil.croala-op:" docname="andreis-f-lectori-phil.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:andronic-trag.elegia.croala-op:" docname="andronic-trag-elegia.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:anffredus.savinae-donatio.croala-op:" docname="anffredus-savinae-donatio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:anonymus.hymnus-1800.croala-op:" docname="anonymus-hymnus-1800.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist-1511-04-29.croala-op:" docname="banic-j-epist-1511-04-29.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist-1515-01-17.croala-op:" docname="banic-j-epist-1515-01-17.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist-1524-03-02.croala-op:" docname="banic-j-epist-1524-03-02.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist-dantisc-1516-01-06.croala-op:" docname="banic-j-epist-dantisc-1516-01-06.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist-dantisc-1516-01-10.croala-op:" docname="banic-j-epist-dantisc-1516-01-10.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist-hel.croala-op:" docname="banic-j-epist-hel.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:banic-j.epist.croala-op:" docname="banic-j-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:begnius-s.corvatiae.croala-op:" docname="begnius-s-corvatiae.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:begnius-s.elogium.croala-op:" docname="begnius-s-elogium.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:begnius-s.lectoribus.croala-op:" docname="begnius-s-lectoribus.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:benesa-d.epiced-bun.croala-op:" docname="benesa-d-epiced-bun.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:benesa-d.epigr-cerv.croala-op:" docname="benesa-d-epigr-cerv.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:benesa-p.epist-1570.croala-op:" docname="benesa-p-epist-1570.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:berislavic-p.epist-1518-04-10.croala-op:" docname="berislavic-p-epist-1518-04-10.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:berislavic-p.epist-1519-09-05.croala-op:" docname="berislavic-p-epist-1519-09-05.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:bolica-i.desc.croala-op:" docname="bolica-i-desc.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:boskovic-r.ecl.croala-op:" docname="boskovic-r-ecl.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brlic-ia.epist.croala-op:" docname="brlic-ia-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1512-09-14.croala-op:" docname="brodaric-s-epist-1512-09-14.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1525-09-13.croala-op:" docname="brodaric-s-epist-1525-09-13.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1525-09-30.croala-op:" docname="brodaric-s-epist-1525-09-30.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1525-11-30.croala-op:" docname="brodaric-s-epist-1525-11-30.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-02-22.croala-op:" docname="brodaric-s-epist-1526-02-22.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-03-12.croala-op:" docname="brodaric-s-epist-1526-03-12.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-03-17.croala-op:" docname="brodaric-s-epist-1526-03-17.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-03-26.croala-op:" docname="brodaric-s-epist-1526-03-26.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-07-27.croala-op:" docname="brodaric-s-epist-1526-07-27.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-09-10.croala-op:" docname="brodaric-s-epist-1526-09-10.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1526-10-04.croala-op:" docname="brodaric-s-epist-1526-10-04.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1533-03-08.croala-op:" docname="brodaric-s-epist-1533-03-08.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1533-05-08.croala-op:" docname="brodaric-s-epist-1533-05-08.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1533-08-01.croala-op:" docname="brodaric-s-epist-1533-08-01.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1533-12-10.croala-op:" docname="brodaric-s-epist-1533-12-10.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1536-02-26.croala-op:" docname="brodaric-s-epist-1536-02-26.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:brodaric-s.epist-1536-04-22.croala-op:" docname="brodaric-s-epist-1536-04-22.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:bulic-f.epist.croala-op:" docname="bulic-f-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:bulic-f.epitaph.croala-op:" docname="bulic-f-epitaph.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:cibel-v.pannonia.croala-op:" docname="cibel-v-pannonia.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:cipiko-a.ad-lectorem.croala-op:" docname="cipiko-a-ad-lectorem.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:cipiko-a.naenia.croala-op:" docname="cipiko-a-naenia.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:cipiko-k.inscr-aedif.croala-op:" docname="cipiko-k-inscr-aedif.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:cipiko-k.inscr.croala-op:" docname="cipiko-k-inscr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:crijev-i.palladino.croala-op:" docname="crijev-i-palladino.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:crnkovic-p.epist.croala-op:" docname="crnkovic-p-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:didacus-p.slatarichio.croala-op:" docname="didacus-p-slatarichio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:difnic-g.epist-alex-vi.croala-op:" docname="difnic-g-epist-alex-vi.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:divnic-ik.epigr.croala-op:" docname="divnic-ik-epigr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:djurdjev-i.kostka.croala-op:" docname="djurdjev-i-kostka.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:djurdjev-i.melit.croala-op:" docname="djurdjev-i-melit.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:draskovic-j.epist-1556.croala-op:" docname="draskovic-j-epist-1556.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:draskovic-j.epist-1839-05-06.croala-op:" docname="draskovic-j-epist-1839-05-06.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:draskovic-j.epist-1839-11-12.croala-op:" docname="draskovic-j-epist-1839-11-12.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:draskovic-j.or.croala-op:" docname="draskovic-j-or.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:dubrovnik.epist-1525-03-25.croala-op:" docname="dubrovnik-epist-1525-03-25.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:dubrovnik.epist-1531-07-22.croala-op:" docname="dubrovnik-epist-1531-07-22.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:dubrovnik.epist-1532-11-11.croala-op:" docname="dubrovnik-epist-1532-11-11.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:feric-d.el-t.croala-op:" docname="feric-d-el-t.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:frankapan-b.epist-1525-02-15.croala-op:" docname="frankapan-b-epist-1525-02-15.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:frankapan-f.epist-1533-07-05.croala-op:" docname="frankapan-f-epist-1533-07-05.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:frankapan-krsto.epist-1525-08-09.croala-op:" docname="frankapan-krsto-epist-1525-08-09.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gaj-lj.epist-1833-02-14.croala-op:" docname="gaj-lj-epist-1833-02-14.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:galac-d.epist-1845-10-06.croala-op:" docname="galac-d-epist-1845-10-06.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:getaldic-v.ugolino.croala-op:" docname="getaldic-v-ugolino.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gotius-i.epigramma.croala-op:" docname="gotius-i-epigramma.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:grad-senj.epist-1531-07-17.croala-op:" docname="grad-senj-epist-1531-07-17.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gradic-s.epist-palmot.croala-op:" docname="gradic-s-epist-palmot.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gradic-s.hendec.croala-op:" docname="gradic-s-hendec.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gradic-s.insula.croala-op:" docname="gradic-s-insula.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gradic-s.palmotta.croala-op:" docname="gradic-s-palmotta.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gradic-s.palmottae-vita.croala-op:" docname="gradic-s-palmottae-vita.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:gradic-s.vener.croala-op:" docname="gradic-s-vener.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:hrank-d.bracia.croala-op:" docname="hrank-d-bracia.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:ian.pan-diomed.croala-op:" docname="ian-pan-diomed.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:ian-pan.epist-gal-1462.croala-op:" docname="ian-pan-epist-gal-1462.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:ian-pan.epist-gal-1465.croala-op:" docname="ian-pan-epist-gal-1465.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:ian-pan.epist-matth.croala-op:" docname="ian-pan-epist-matth.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:ian-pan.oratio.croala-op:" docname="ian-pan-oratio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:jelacic-l.valedictoria.croala-op:" docname="jelacic-l-valedictoria.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:jurjevic-j.epist-1418-06-01.croala-op:" docname="jurjevic-j-epist-1418-06-01.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kalic-a.adventu.croala-op:" docname="kalic-a-adventu.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kasic-b.instit-epist.croala-op:" docname="kasic-b-instit-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kordic-m.funere-lazzari.croala-op:" docname="kordic-m-funere-lazzari.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kravar-m.oratio.croala-op:" docname="kravar-m-oratio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:krsava-j.epigram.croala-op:" docname="krsava-j-epigram.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:krsava-p.arcus.croala-op:" docname="krsava-p-arcus.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-orlovic.epist-1525-04-19.croala-op:" docname="kruzic-orlovic-epist-1525-04-19.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1525-10-05a.croala-op:" docname="kruzic-p-epist-1525-10-05.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1526-01-30.croala-op:" docname="kruzic-p-epist-1526-01-30.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1526-01-30a.croala-op:" docname="kruzic-p-epist-1526-01-30a.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1526-01-30b.croala-op:" docname="kruzic-p-epist-1526-01-30b.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1532-08-28.croala-op:" docname="kruzic-p-epist-1532-08-28.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1532-09-22.croala-op:" docname="kruzic-p-epist-1532-09-22.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kruzic-p.epist-1525-10-05b.croala-op:" docname="kruzic-petar-epist-1525-10-05.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+
+  <online type="xml" urn="urn:cts:croala:kunic-r.hymnus-cererem.croala-op:" docname="kunic-r-hymnus-cererem.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:kunic-r.ilias-argum.croala-op:" docname="kunic-r-ilias-argum.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  
+  <online type="xml" urn="urn:cts:croala:makarelic-j.epigr.croala-op:" docname="makarelic-j-epigr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.dante.croala-op:" docname="marul-mar-dante.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.epist-1477.croala-op:" docname="marul-mar-epist-1477.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.epist-1496-05-10.croala-op:" docname="marul-mar-epist-1496-05-10.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.epist-1502-03-03.croala-op:" docname="marul-mar-epist-1502-03-03.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.epist-1502x.croala-op:" docname="marul-mar-epist-1502x.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.epist-1507-04-04.croala-op:" docname="marul-mar-epist-1507-04-04.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marul-mar.epist-1515-04-26.croala-op:" docname="marul-mar-epist-1515-04-26.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:marullus-s.aurium.croala-op:" docname="marullus-s-aurium.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:mazuranic-a.epist.croala-op:" docname="mazuranic-a-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:michet-a.oratio.croala-op:" docname="michet-a-oratio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:mihanovic-a.osman.croala-op:" docname="mihanovic-a-osman.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:mikac.obsidio.croala-op:" docname="mikac-obsidio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:milasin-f.viator.croala-op:" docname="milasin-f-viator.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:modr-n.oratio-riar.croala-op:" docname="modr-n-oratio-riar.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:nardin-p.elegia.croala-op:" docname="nardin-p-elegia.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:natalis-f.paladino.croala-op:" docname="natalis-f-paladino.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  
+  <online type="xml" urn="urn:cts:croala:niger-t.epist-adr-1522.croala-op:" docname="niger-t-epist-adr-1522.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:niger-t.epist-clem-1532.croala-op:" docname="niger-t-epist-clem-1532.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:niger-t.epist-marul.croala-op:" docname="niger-t-epist-marul.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:niger-t.inscr-1527.croala-op:" docname="niger-t-inscr-1527.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0139.agapes-testamentum.croala-op:" docname="nn-agapes-testamentum.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0140.chart-cicca-1066.croala-op:" docname="nn-chart-cicca-1066.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0141.confirmatio-iaderenses.croala-op:" docname="nn-confirmatio-iaderenses.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0142.crescentius.croala-op:" docname="nn-crescentius.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0143.declaratio-1790.croala-op:" docname="nn-declaratio-1790.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0144.gregorius.croala-op:" docname="nn-gregorius.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  
+  <online type="xml" urn="urn:cts:croala:croala0146.inscriptio-ragninae-1004.croala-op:" docname="nn-inscriptio-ragninae-1004.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0147.jelena.croala-op:" docname="nn-jelena.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0148.keglevich-epitaphium.croala-op:" docname="nn-keglevich-epitaphium.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0149.laurentii.croala-op:" docname="nn-laurentii.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0150.laus-spal.croala-op:" docname="nn-laus-spal.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0151.leonis-spalatensis-epit.croala-op:" docname="nn-leonis-spalatensis-epit.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0152.mladini.croala-op:" docname="nn-mladini.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0153.paulus-epigramma.croala-op:" docname="nn-paulus-epigramma.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0154.petrus-zerni.croala-op:" docname="nn-petrus-zerni.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0155.predstavka-1790.croala-op:" docname="nn-predstavka-1790.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:croala0156.thoma-archid.croala-op:" docname="nn-thoma-archid.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:palikuca-p.encom.croala-op:" docname="palikuca-p-encom.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:palmotic-dz.epist.croala-op:" docname="palmotic-dz-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:petrov-n.or-rhag.croala-op:" docname="petrov-n-or-rhag.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:petrovic-v.amissa-ux.croala-op:" docname="petrovic-v-amissa-ux.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:petrovic-v.obit-ux.croala-op:" docname="petrovic-v-obit-ux.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:pima-b.epig.croala-op:" docname="pima-b-epig.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:pridojev-i.spalat.croala-op:" docname="pridojev-i-spalat.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:rastic-n.epist.croala-op:" docname="rastic-n-epist.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:rattkay-i.tarahum.croala-op:" docname="rattkay-i-tarahum.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:razmilovic-b.eleg.croala-op:" docname="razmilovic-b-eleg.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:rozan-a.epigr-1540.croala-op:" docname="rozan-a-epigr-1540.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:rozan-a.epigr-nalis-1572.croala-op:" docname="rozan-a-epigr-nalis-1572.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sabolovic-m.crisienses.croala-op:" docname="sabolovic-m-crisienses.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sagudinus-n.epist-1452.croala-op:" docname="sagudinus-n-epist-1452.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sarar-e.epist-1531-07-17.croala-op:" docname="sarar-e-epist-1531-07-17.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sarar-e.epist-1532-10-12.croala-op:" docname="sarar-e-epist-1532-10-12.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:senj-kaptol.epist-1531-07-17.croala-op:" docname="senj-kaptol-epist-1531-07-17.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sisgor-g.miraculum.croala-op:" docname="sisgor-g-miraculum.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sisgor-g.prosopopeya.croala-op:" docname="sisgor-g-prosopopeya.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sizgor-j.documenta-sibenic.croala-op:" docname="sizgor-j-documenta-sibenic.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:skerle-n.epist-verh-1798-10-16.croala-op:" docname="skerle-n-epist-verh-1798-10-16.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-c.inscriptio.croala-op:" docname="sobota-c-inscriptio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1438-07-15.croala-op:" docname="sobota-i-epist-1438-07-15.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1451-06-28.croala-op:" docname="sobota-i-epist-1451-06-28.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1452-08-02.croala-op:" docname="sobota-i-epist-1452-08-02.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1453-05-20.croala-op:" docname="sobota-i-epist-1453-05-20.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1453-06-30.croala-op:" docname="sobota-i-epist-1453-06-30.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1453-07-24.croala-op:" docname="sobota-i-epist-1453-07-24.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1454-07-27.croala-op:" docname="sobota-i-epist-1454-07-27.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1454-08-14.croala-op:" docname="sobota-i-epist-1454-08-14.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:sobota-i.epist-1454-12-24.croala-op:" docname="sobota-i-epist-1454-12-24.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:stafilic-i.oratio-venetiis.croala-op:" docname="stafilic-i-oratio-venetiis.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:staphyl-s.inscr.croala-op:" docname="staphyl-s-inscr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:statilic-i.epist-1527-11-08.croala-op:" docname="statilic-i-epist-1527-11-08.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:statilic-i.oratio-1521.croala-op:" docname="statilic-i-oratio-1521.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:step-n.expugn-ungnad.croala-op:" docname="step-n-expugn-ungnad.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:stephanus.confirmatio-crisogoni.croala-op:" docname="stephanus-confirmatio-crisogoni.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:tihic-n.epigr.croala-op:" docname="tihic-n-epigr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:utjesenovic-j.epist-1545-02-28.croala-op:" docname="utjesenovic-j-epist-1545-02-28.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:utjesenovic-j.epist-1547-02-07.croala-op:" docname="utjesenovic-j-epist-1547-02-07.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vitezov-ritter-p.diss.croala-op:" docname="vitezov-ritter-p-diss.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  
+  <online type="xml" urn="urn:cts:croala:vramec-a.epigr.croala-op:" docname="vramec-a-epigr.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1539-12-20.croala-op:" docname="vrancic-a-epist-1539-12-20.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1542-01-10.croala-op:" docname="vrancic-a-epist-1542-01-10.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1543-05-16.croala-op:" docname="vrancic-a-epist-1543-05-16.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1543-07-20.croala-op:" docname="vrancic-a-epist-1543-07-20.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1553-08-12.croala-op:" docname="vrancic-a-epist-1553-08-12.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1557-12-24.croala-op:" docname="vrancic-a-epist-1557-12-24.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1567-04-05.croala-op:" docname="vrancic-a-epist-1567-04-05.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.epist-1573-05-03.croala-op:" docname="vrancic-a-epist-1573-05-03.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-a.memoriale-1532.croala-op:" docname="vrancic-a-memoriale-1532.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-f.vita-ant.croala-op:" docname="vrancic-f-vita-ant.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.encomium.croala-op:" docname="vrancic-m-encomium.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1540-03-01.croala-op:" docname="vrancic-m-epist-1540-03-01.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1557-12-22.croala-op:" docname="vrancic-m-epist-1557-12-22.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1558-04-29.croala-op:" docname="vrancic-m-epist-1558-04-29.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1558-05-25.croala-op:" docname="vrancic-m-epist-1558-05-25.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1558-08-22.croala-op:" docname="vrancic-m-epist-1558-08-22.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1558-10-01.croala-op:" docname="vrancic-m-epist-1558-10-01.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1558-11-06.croala-op:" docname="vrancic-m-epist-1558-11-06.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1558-12-27.croala-op:" docname="vrancic-m-epist-1558-12-27.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.epist-1559-02-09.croala-op:" docname="vrancic-m-epist-1559-02-09.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrancic-m.error.croala-op:" docname="vrancic-m-error.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:vrhovac-m.poziv-1813.croala-op:" docname="vrhovac-m-poziv-1813.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:zamagna-b.osmanidos.croala-op:" docname="zamagna-b-osmanidos.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="versus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:l[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:zavorovic-d.inscriptio.croala-op:" docname="zavorovic-d-inscriptio.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="paragraphus" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:p[@n='?']"/>
+    </citationMapping>
+  </online>
+  <online type="xml" urn="urn:cts:croala:zrinski-j.epist-zlataric.croala-op:" docname="zrinski-j-epist-zlataric.xml">
+    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+    <citationMapping>
+      <citation label="sectio" scope="/tei:TEI/tei:text/tei:body/tei:div" xpath="/tei:*[@n='?']"/>
+      
+      
+    </citationMapping>
+  </online>
+</CitationConfiguration>

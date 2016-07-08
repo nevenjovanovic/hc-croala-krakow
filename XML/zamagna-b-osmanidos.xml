@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc xml:id="zamagna-b-osmanidos">
+         <titleStmt>
+            <title>Osmanidos fragmentum, versio electronica</title>
+            <author ref="croala.publika.gundulicd1e609">
+               <persName xml:lang="hr">Gundulić, Ivan</persName>
+               <date>1588-1638</date>
+            </author>
+            <author ref="zama01" role="trl">
+               <persName xml:lang="hr">Zamanja, Bernard </persName>
+               <date>1735-1820</date>
+            </author>
+            <editor>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+      
+         <editionStmt>
+            <edition>
+               <date>Mense Augusti, 2014.</date>
+            </edition>
+         </editionStmt>
+         <extent ana="B">Mg:B 30 versus, verborum 199</extent>
+         <publicationStmt>
+            <p>Izdanje priređeno u okviru znanstvenog projekta Hrvatska latinistička epika,
+          (<orgName>
+                  <ref type="viaf" target="124389134">Filozofski fakultet Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName> Hrvatska). <date>Kolovoza
+            2014</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Gundulić, Ivan ; Appendini, F.M.: Versione libera dell'Osmanide poema illirico di Giovanni Fr.co Gondola Patrizio di Ragusa : Martecchini, 1827, s. 24-25
+        </bibl>
+         </sourceDesc>
+      </fileDesc>
+    <encodingDesc>
+      <refsDecl xml:base="http://croala.ffzg.unizg.hr/opera/urn:cts:croala" xml:id="zamagna-b-osmanidos.xml" ana="croala:cts">
+        <cRefPattern matchPattern="versus" replacementPattern="/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='?']">
+          <p>This pattern references l of the text in CTS.</p>
+        </cRefPattern>
+      </refsDecl>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="abstract" occurs="1"/>
+          <tagUsage gi="author" occurs="2"/>
+          <tagUsage gi="bibl" occurs="2"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="change" occurs="1"/>
+          <tagUsage gi="creation" occurs="1"/>
+          <tagUsage gi="date" occurs="6"/>
+          <tagUsage gi="div" occurs="1"/>
+          <tagUsage gi="edition" occurs="1"/>
+          <tagUsage gi="editionStmt" occurs="1"/>
+          <tagUsage gi="editor" occurs="1"/>
+          <tagUsage gi="encodingDesc" occurs="1"/>
+          <tagUsage gi="extent" occurs="1"/>
+          <tagUsage gi="fileDesc" occurs="1" withId="1"/>
+          <tagUsage gi="gap" occurs="2"/>
+          <tagUsage gi="keywords" occurs="3"/>
+          <tagUsage gi="l" occurs="30"/>
+          <tagUsage gi="langUsage" occurs="1"/>
+          <tagUsage gi="language" occurs="1"/>
+          <tagUsage gi="namespace" occurs="1"/>
+          <tagUsage gi="orgName" occurs="1"/>
+          <tagUsage gi="p" occurs="4"/>
+          <tagUsage gi="particDesc" occurs="1"/>
+          <tagUsage gi="pb" occurs="2"/>
+          <tagUsage gi="persName" occurs="5"/>
+          <tagUsage gi="placeName" occurs="1"/>
+          <tagUsage gi="profileDesc" occurs="1"/>
+          <tagUsage gi="publicationStmt" occurs="1"/>
+          <tagUsage gi="ref" occurs="4"/>
+          <tagUsage gi="resp" occurs="1"/>
+          <tagUsage gi="respStmt" occurs="1"/>
+          <tagUsage gi="revisionDesc" occurs="1"/>
+          <tagUsage gi="settingDesc" occurs="1"/>
+          <tagUsage gi="sic" occurs="6"/>
+          <tagUsage gi="sourceDesc" occurs="1"/>
+          <tagUsage gi="tagUsage" occurs="39"/>
+          <tagUsage gi="tagsDecl" occurs="1"/>
+          <tagUsage gi="teiHeader" occurs="1"/>
+          <tagUsage gi="term" occurs="9"/>
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="textClass" occurs="1"/>
+          <tagUsage gi="title" occurs="1"/>
+          <tagUsage gi="titleStmt" occurs="1"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date notBefore="1820" period="18xx_1_third">ante 1820</date>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>poesis</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae recentiores (1600-1850)</term>
+               <term>Saeculum 18 (1701-1800)</term>
+               <term>Saeculum 19 (1801-1900)</term>
+               <term>1751-1800</term>
+               <term>1801-1850</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>poesis - versio</term>
+               <term>poesis - epica</term>
+               <term>poesis - fragmentum</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2014-08-17</date>
+Početna verzija.
+      </change>
+      </revisionDesc>
+  </teiHeader>
+  <text type="poesis">
+      <body>
+         <pb n="24"/>
+         <div met="hexameter">
+            <gap n="gap1"/>
+            <l n="l1">Et iam inter cumulos aggestae stragis, et ossa </l>
+
+            <l n="l2">Othmanidum dux fertur equo, cura atra, dolorque, </l>
+
+            <l n="l3">Stant lateri comites, nec luctu effingere vocem,</l>
+
+            <l n="l4">Nec datur ad gemitus tristes via, namque revulsa </l>
+
+            <l n="l5">Brachiaque ex humero rigidis arentia fibris,</l>
+
+            <l n="l6">Et capita informi tabo nigrantia spectans,</l>
+
+            <l n="l7">Horrescit magis, atque magis. Quam saepe coactus</l>
+
+            <l n="l8">Quadrupedante putres gressu male proterit artus,</l>
+
+            <l n="l9">Per medios molitus iter! Quam saepe resistens </l>
+
+            <l n="l10">Acer equus refugitque horrens, et naribus auras </l>
+
+            <l n="l11">E patulis efflans fremitu sonat, et vomit ignem </l>
+
+            
+            <l n="l12">Fumifero sudore madens, dum saltibus ipsos</l>
+
+            <l n="l13">Supra et equos, equitesque una glomerantibus instat!</l>
+
+            <l n="l14">Quid ductor? visu misere turbatus, et horrens </l>
+
+            <l n="l15">Avertit nequidquam oculos, et lumina claudens </l>
+
+            <l n="l16">Uda rigat <sic>lacrymis</sic> late manantibus ora,</l>
+
+            <l n="l17">Curarumque aestu magno torquetur in horas</l>
+
+            <l n="l18">Acrius, aut consanguineos sibi funere raptos,</l>
+
+            <l n="l19">Aut cari <sic>memorans</sic> confossum pectus amici.</l>
+
+            <l n="l20">Iamque etiam cuperet frustra divertere calle,</l>
+
+            <l n="l21">Et longe properare alio: vetat invia cursu</l>
+
+            <l n="l22">Semita, et albentes sparsis late ossibus agri.</l>
+
+            <l n="l23">Nunc haec, nunc illa insultans quatit ungula cornu.</l>
+
+            <l n="l24">Heu quid in adversis rebus crudelius usquam</l>
+
+            <l n="l25">Esse recordanti poterat, vultusque suorum</l>
+
+            <l n="l26">Fortunasque, usumque olim, quos laedere <sic>passim</sic>
+            </l>
+
+            <l n="l27">Cogitur invitus? Sic tota nocte, dieque</l>
+
+            <l n="l28">Invisum properabat iter, dum constitit <sic>undas</sic>
+            </l>
+
+            <l n="l29">
+               <sic>Ad Tanais</sic>, roseo <sic>cum</sic> tertia fulsit ab ortu</l>
+
+            <l n="l30">Post decimam lux alma etc. etc.</l>
+
+            <gap/>
+         </div>
+      </body>
+  </text>
+</TEI>
